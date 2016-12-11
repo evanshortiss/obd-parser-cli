@@ -22,7 +22,7 @@ tools such as GCC, Visual Studio, or XCode. More details can be found
 
 ## Connecting to OBD via USB
 Connecting to your vehicle's OBD system is relatively simple, you just need a
-USB ELM327 cable (like these)[https://www.amazon.com/s/?field-keywords=elm327+usb].
+USB ELM327 cable [like these](https://www.amazon.com/s/?field-keywords=elm327+usb).
 You might need to install drivers to get the cable working with your laptop, 
 such as the macOS drivers at [this link](http://www.totalcardiagnostics.com/support/Knowledgebase/Article/View/19/0/how-to-install-elm327-usbbluetooth-on-mac-and-obd-software). 
 
@@ -40,8 +40,15 @@ $ ls /dev/tty.*
 ```
 
 The existence of `/dev/tty.usbserial` tells us that the connection is detected
-and available for use by this CLI.
+and available for use by this CLI. You can use it like so:
 
+```
+$ obd poll -c serial -b 38400 -i /dev/tty.serialusb "Engine RPM"
+```
+
+The `-c serial` tells us that we want to use a serial connection, `-b`
+specifies the baudrate (this might vary based on vehicle) ,and `-i` specifies
+the interface that the serial connection is running at.
 
 ## Usage
 Once installed you can run the program from a terminal. Here's how to load
@@ -69,7 +76,7 @@ $ obd --help
     -i, --interface <name>     the interface to use for connection, e.g /dev/tty.serialusb
 ```
 
-### Listing PIDs
+### Listing PIDs (list)
 
 Use the list command to view PIDs that can be read from vehicles. Currently only
 a handful are supported. Here's how you can view them:
