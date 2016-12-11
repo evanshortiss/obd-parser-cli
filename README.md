@@ -10,7 +10,7 @@ Using this software and related libraries is done so at your own risk.
 
 ## Install
 ```
-npm i obd-parser-cli
+npm install obd-parser-cli -g
 ```
 
 NOTE: This module has a native dependency (serialport) that must be compiled
