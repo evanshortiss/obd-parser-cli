@@ -38,11 +38,6 @@ program
     poll([pid].concat(extraPids || []));
   });
 
-program
-  .on('*', function() {
-    console.log('argv', process.argv);
-  });
-
 if (!process.argv.slice(2).length) {
   program.outputHelp();
 } else {
