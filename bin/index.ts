@@ -1,5 +1,14 @@
 #!/usr/bin/env node
 
+import * as Promise from 'bluebird';
+
+function onError (e) {
+  console.log('uncaught error', e);
+}
+
+Promise.onPossiblyUnhandledRejection(onError)
+process.on('uncaughtException', onError);
+
 import program = require('commander');
 import { InterfaceGlobal, InterfaceCLI } from '../lib/interface';
 

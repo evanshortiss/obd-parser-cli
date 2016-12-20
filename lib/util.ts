@@ -28,6 +28,6 @@ export function getPidByCode (code: string):OBD.PIDS.PID {
 
 export function getPidByName (name: string):OBD.PIDS.PID {
   return _.find(getPidInstances(), (p:OBD.PIDS.PID) => {
-    return p.getName() === name;
+    return p.getName().toUpperCase() === name.toUpperCase();
   });
 }

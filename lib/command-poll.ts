@@ -6,7 +6,7 @@ import * as table from 'table';
 import { ensureObdIsConnected } from './connection';
 
 export default function (pids:string[]) {
-  Promise.map(pids, (pidCodeOrName) => {
+  Promise.mapSeries(pids, (pidCodeOrName) => {
     return util.getPidByCode(pidCodeOrName) || util.getPidByName(pidCodeOrName);
   })
     .then((pids) => poll(pids));
@@ -15,7 +15,7 @@ export default function (pids:string[]) {
 function poll (pids:OBD.PIDS.PID[]) {
   return ensureObdIsConnected()
     .then(() => {
-      return Promise.map(pids, (p) => {
+      return Promise.mapSeries(pids, (p) => {
         const poller:OBD.ECUPoller = new OBD.ECUPoller({
           pid: p,
           interval: null
@@ -33,11 +33,14 @@ function poll (pids:OBD.PIDS.PID[]) {
 
       pollReults.forEach((p) => {
         // This will always be a string for us so we can cast it
-        data.push([<string>p.name, p.value.toFixed(2)]);
+        data.push([<string>p.name, p.value && p.value.toFixed ? p.value.toFixed(2) : p.value]);
       });
 
       console.log(table.table(data, {
         border: table.getBorderCharacters('norc')
       }));
+    })
+    .catch((e) => {
+      console.log(e);
     });
 }
