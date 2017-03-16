@@ -1,6 +1,15 @@
 
 import * as OBD from 'obd-parser';
 import * as _ from 'lodash';
+import { InterfaceGlobal, InterfaceCLI } from './interface';
+
+/**
+ * Returns the commander singleton, but with a custom interface applied
+ * @return {InterfaceCLI}
+ */
+export function getProgram (): InterfaceCLI {
+  return (<InterfaceGlobal>global).program;
+}
 
 export function getPidInstances (): Array<OBD.PIDS.PID> {
   var ps = _.map(

@@ -7,3 +7,4 @@ typings
 *.d.ts
 *.js
 *.rdb
+outputs/

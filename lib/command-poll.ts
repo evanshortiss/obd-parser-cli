@@ -39,8 +39,12 @@ function poll (pids:OBD.PIDS.PID[]) {
       console.log(table.table(data, {
         border: table.getBorderCharacters('norc')
       }));
+
+      // TODO: kill connections and close process clean
+      process.exit(0);
     })
     .catch((e) => {
-      console.log(e);
+      console.error('Error occurred when polling:');
+      console.error(e.stack);
     });
 }

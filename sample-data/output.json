@@ -1,0 +1,1346 @@
+[
+{"ts":"2016-12-20T07:50:09.928Z","bytes":"410C84DE","value":8503.5,"pretty":"8503.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:09.932Z","bytes":"410DDC","value":220,"pretty":"220km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:09.934Z","bytes":"4111A0","value":62.745098039215684,"pretty":"62.745098039215684%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:09.935Z","bytes":"41052B","value":3,"pretty":"3°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:09.936Z","bytes":"412FB1","value":69.41176470588235,"pretty":"69.41176470588235%","name":"Fuel Level Input","pid":"2F"}
+{"ts":"2016-12-20T07:50:09.937Z","bytes":"4104D1","value":83.6,"pretty":"83.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:09.937Z","bytes":"410AA3","value":489,"pretty":"489kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:10.185Z","bytes":"410C2D46","value":2897.5,"pretty":"2897.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:10.186Z","bytes":"410D73","value":115,"pretty":"115km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:10.434Z","bytes":"4111AE","value":68.23529411764706,"pretty":"68.23529411764706%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:10.435Z","bytes":"410477","value":47.6,"pretty":"47.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:10.436Z","bytes":"410AE4","value":684,"pretty":"684kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:10.437Z","bytes":"410C4C79","value":4894.25,"pretty":"4894.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:10.437Z","bytes":"410DD2","value":210,"pretty":"210km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:10.689Z","bytes":"410CEF9F","value":15335.75,"pretty":"15335.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:10.690Z","bytes":"410D5B","value":91,"pretty":"91km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:10.940Z","bytes":"411194","value":58.03921568627451,"pretty":"58.03921568627451%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:10.942Z","bytes":"4104BA","value":74.4,"pretty":"74.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:10.942Z","bytes":"410A8F","value":429,"pretty":"429kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:10.943Z","bytes":"410CB869","value":11802.25,"pretty":"11802.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:10.944Z","bytes":"410D11","value":17,"pretty":"17km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:11.196Z","bytes":"410C7857","value":7701.75,"pretty":"7701.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:11.196Z","bytes":"410DA5","value":165,"pretty":"165km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:11.445Z","bytes":"411178","value":47.05882352941176,"pretty":"47.05882352941176%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:11.447Z","bytes":"410AEC","value":708,"pretty":"708kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:11.448Z","bytes":"410441","value":26,"pretty":"26%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:11.452Z","bytes":"410CCFB3","value":13292.75,"pretty":"13292.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:11.454Z","bytes":"410D89","value":137,"pretty":"137km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:11.707Z","bytes":"410CB043","value":11280.75,"pretty":"11280.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:11.708Z","bytes":"410DFB","value":251,"pretty":"251km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:11.948Z","bytes":"411178","value":47.05882352941176,"pretty":"47.05882352941176%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:11.951Z","bytes":"410A12","value":54,"pretty":"54kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:11.951Z","bytes":"410431","value":19.6,"pretty":"19.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:11.955Z","bytes":"410C70C2","value":7216.5,"pretty":"7216.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:11.958Z","bytes":"410DE4","value":228,"pretty":"228km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:12.209Z","bytes":"410C6E18","value":7046,"pretty":"7046rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:12.211Z","bytes":"410D0D","value":13,"pretty":"13km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:12.453Z","bytes":"411199","value":60,"pretty":"60%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:12.455Z","bytes":"410A99","value":459,"pretty":"459kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:12.455Z","bytes":"41045A","value":36,"pretty":"36%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:12.459Z","bytes":"410C4E8B","value":5026.75,"pretty":"5026.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:12.460Z","bytes":"410D9D","value":157,"pretty":"157km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:12.714Z","bytes":"410CC4F4","value":12605,"pretty":"12605rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:12.715Z","bytes":"410D67","value":103,"pretty":"103km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:12.959Z","bytes":"4111E5","value":89.80392156862744,"pretty":"89.80392156862744%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:12.960Z","bytes":"410AE3","value":681,"pretty":"681kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:12.960Z","bytes":"410423","value":14,"pretty":"14%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:12.964Z","bytes":"410CCF5C","value":13271,"pretty":"13271rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:12.965Z","bytes":"410D94","value":148,"pretty":"148km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:13.220Z","bytes":"410CBF5B","value":12246.75,"pretty":"12246.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:13.221Z","bytes":"410D53","value":83,"pretty":"83km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:13.464Z","bytes":"41111A","value":10.196078431372548,"pretty":"10.196078431372548%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:13.465Z","bytes":"410A34","value":156,"pretty":"156kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:13.466Z","bytes":"4104EB","value":94,"pretty":"94%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:13.471Z","bytes":"410C5E90","value":6052,"pretty":"6052rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:13.472Z","bytes":"410D07","value":7,"pretty":"7km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:13.725Z","bytes":"410C1786","value":1505.5,"pretty":"1505.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:13.727Z","bytes":"410D37","value":55,"pretty":"55km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:13.972Z","bytes":"411161","value":38.03921568627451,"pretty":"38.03921568627451%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:13.974Z","bytes":"410A18","value":72,"pretty":"72kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:13.975Z","bytes":"41048B","value":55.6,"pretty":"55.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:13.976Z","bytes":"410CABA0","value":10984,"pretty":"10984rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:13.976Z","bytes":"410D9B","value":155,"pretty":"155km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:14.229Z","bytes":"410C723F","value":7311.75,"pretty":"7311.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:14.230Z","bytes":"410D0A","value":10,"pretty":"10km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:14.475Z","bytes":"41117D","value":49.01960784313725,"pretty":"49.01960784313725%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:14.476Z","bytes":"410A4D","value":231,"pretty":"231kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:14.476Z","bytes":"41047E","value":50.4,"pretty":"50.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:14.480Z","bytes":"410C465D","value":4503.25,"pretty":"4503.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:14.481Z","bytes":"410DFD","value":253,"pretty":"253km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:14.730Z","bytes":"410C7E3","value":8064.75,"pretty":"8064.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:14.732Z","bytes":"410D34","value":52,"pretty":"52km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:14.933Z","bytes":"410553","value":43,"pretty":"43°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:14.979Z","bytes":"4111C9","value":78.82352941176471,"pretty":"78.82352941176471%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:14.980Z","bytes":"410A37","value":165,"pretty":"165kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:14.980Z","bytes":"410411","value":6.8,"pretty":"6.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:14.981Z","bytes":"410C5BC7","value":5873.75,"pretty":"5873.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:14.982Z","bytes":"410D2D","value":45,"pretty":"45km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:15.234Z","bytes":"410C7A9B","value":7846.75,"pretty":"7846.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:15.235Z","bytes":"410DA5","value":165,"pretty":"165km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:15.484Z","bytes":"4111D4","value":83.13725490196079,"pretty":"83.13725490196079%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:15.485Z","bytes":"410A4A","value":222,"pretty":"222kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:15.485Z","bytes":"4104D5","value":85.2,"pretty":"85.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:15.486Z","bytes":"410C24C6","value":2353.5,"pretty":"2353.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:15.486Z","bytes":"410D64","value":100,"pretty":"100km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:15.739Z","bytes":"410C1A4E","value":1683.5,"pretty":"1683.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:15.740Z","bytes":"410D3E","value":62,"pretty":"62km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:15.989Z","bytes":"4111AB","value":67.05882352941177,"pretty":"67.05882352941177%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:15.991Z","bytes":"410A2E","value":138,"pretty":"138kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:15.992Z","bytes":"41049E","value":63.2,"pretty":"63.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:15.993Z","bytes":"410CE12F","value":14411.75,"pretty":"14411.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:15.994Z","bytes":"410DF6","value":246,"pretty":"246km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:16.246Z","bytes":"410CFE21","value":16264.25,"pretty":"16264.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:16.247Z","bytes":"410D4D","value":77,"pretty":"77km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:16.494Z","bytes":"4111E1","value":88.23529411764706,"pretty":"88.23529411764706%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:16.495Z","bytes":"410AFD","value":759,"pretty":"759kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:16.495Z","bytes":"41041A","value":10.4,"pretty":"10.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:16.496Z","bytes":"410CF52E","value":15691.5,"pretty":"15691.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:16.497Z","bytes":"410D1E","value":30,"pretty":"30km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:16.749Z","bytes":"410C2C4","value":2817,"pretty":"2817rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:16.750Z","bytes":"410DB4","value":180,"pretty":"180km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:16.999Z","bytes":"41116B","value":41.96078431372549,"pretty":"41.96078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:17.001Z","bytes":"410AFB","value":753,"pretty":"753kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:17.002Z","bytes":"41041D","value":11.6,"pretty":"11.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:17.002Z","bytes":"410CC247","value":12433.75,"pretty":"12433.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:17.003Z","bytes":"410D7A","value":122,"pretty":"122km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:17.255Z","bytes":"410C80A1","value":8232.25,"pretty":"8232.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:17.256Z","bytes":"410D34","value":52,"pretty":"52km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:17.500Z","bytes":"411195","value":58.431372549019606,"pretty":"58.431372549019606%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:17.501Z","bytes":"410ACA","value":606,"pretty":"606kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:17.502Z","bytes":"4104C2","value":77.6,"pretty":"77.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:17.507Z","bytes":"410C411D","value":4167.25,"pretty":"4167.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:17.508Z","bytes":"410D81","value":129,"pretty":"129km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:17.760Z","bytes":"410CBAD4","value":11957,"pretty":"11957rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:17.761Z","bytes":"410D43","value":67,"pretty":"67km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:18.003Z","bytes":"4111E4","value":89.41176470588235,"pretty":"89.41176470588235%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:18.009Z","bytes":"410A0E","value":42,"pretty":"42kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:18.009Z","bytes":"4104F1","value":96.4,"pretty":"96.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:18.011Z","bytes":"410C0E1","value":896.25,"pretty":"896.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:18.012Z","bytes":"410D73","value":115,"pretty":"115km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:18.267Z","bytes":"410C311D","value":3143.25,"pretty":"3143.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:18.268Z","bytes":"410D8A","value":138,"pretty":"138km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:18.508Z","bytes":"411183","value":51.372549019607845,"pretty":"51.372549019607845%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:18.512Z","bytes":"4104AA","value":68,"pretty":"68%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:18.519Z","bytes":"410A0B","value":33,"pretty":"33kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:18.523Z","bytes":"410C57DC","value":5623,"pretty":"5623rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:18.524Z","bytes":"410D3A","value":58,"pretty":"58km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:18.778Z","bytes":"410C6247","value":6289.75,"pretty":"6289.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:18.778Z","bytes":"410DAA","value":170,"pretty":"170km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:19.013Z","bytes":"411196","value":58.8235294117647,"pretty":"58.8235294117647%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:19.015Z","bytes":"4104CB","value":81.2,"pretty":"81.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:19.015Z","bytes":"410A45","value":207,"pretty":"207kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:19.030Z","bytes":"410C93DE","value":9463.5,"pretty":"9463.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:19.030Z","bytes":"410D26","value":38,"pretty":"38km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:19.286Z","bytes":"410C235B","value":2262.75,"pretty":"2262.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:19.286Z","bytes":"410D5A","value":90,"pretty":"90km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:19.518Z","bytes":"411165","value":39.6078431372549,"pretty":"39.6078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:19.518Z","bytes":"410435","value":21.2,"pretty":"21.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:19.519Z","bytes":"410A7E","value":378,"pretty":"378kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:19.537Z","bytes":"410CBDC9","value":12146.25,"pretty":"12146.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:19.537Z","bytes":"410D2C","value":44,"pretty":"44km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:19.791Z","bytes":"410CECDE","value":15159.5,"pretty":"15159.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:19.792Z","bytes":"410D64","value":100,"pretty":"100km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:19.938Z","bytes":"4105EC","value":196,"pretty":"196°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:20.020Z","bytes":"4111B0","value":69.01960784313725,"pretty":"69.01960784313725%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:20.021Z","bytes":"4104A0","value":64,"pretty":"64%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:20.022Z","bytes":"410A88","value":408,"pretty":"408kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:20.042Z","bytes":"410CD65","value":13697.25,"pretty":"13697.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:20.042Z","bytes":"410DA7","value":167,"pretty":"167km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:20.296Z","bytes":"410C247A","value":2334.5,"pretty":"2334.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:20.298Z","bytes":"410DC7","value":199,"pretty":"199km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:20.522Z","bytes":"4111E3","value":89.01960784313725,"pretty":"89.01960784313725%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:20.523Z","bytes":"410474","value":46.4,"pretty":"46.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:20.523Z","bytes":"410AC5","value":591,"pretty":"591kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:20.551Z","bytes":"410C27B4","value":2541,"pretty":"2541rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:20.552Z","bytes":"410DDD","value":221,"pretty":"221km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:20.806Z","bytes":"410C3AD6","value":3765.5,"pretty":"3765.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:20.807Z","bytes":"410D49","value":73,"pretty":"73km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:21.027Z","bytes":"41111F","value":12.156862745098039,"pretty":"12.156862745098039%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:21.028Z","bytes":"410451","value":32.4,"pretty":"32.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:21.028Z","bytes":"410A99","value":459,"pretty":"459kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:21.059Z","bytes":"410CB0FC","value":11327,"pretty":"11327rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:21.059Z","bytes":"410D9F","value":159,"pretty":"159km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:21.312Z","bytes":"410C6A6A","value":6810.5,"pretty":"6810.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:21.313Z","bytes":"410D44","value":68,"pretty":"68km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:21.532Z","bytes":"4111C3","value":76.47058823529412,"pretty":"76.47058823529412%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:21.533Z","bytes":"410456","value":34.4,"pretty":"34.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:21.533Z","bytes":"410A87","value":405,"pretty":"405kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:21.562Z","bytes":"410C6C34","value":6925,"pretty":"6925rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:21.565Z","bytes":"410DAB","value":171,"pretty":"171km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:21.816Z","bytes":"410C4784","value":4577,"pretty":"4577rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:21.817Z","bytes":"410D5F","value":95,"pretty":"95km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:22.037Z","bytes":"4111E2","value":88.62745098039215,"pretty":"88.62745098039215%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:22.038Z","bytes":"41040F","value":6,"pretty":"6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:22.038Z","bytes":"410ADB","value":657,"pretty":"657kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:22.068Z","bytes":"410D32","value":50,"pretty":"50km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:22.068Z","bytes":"410C2E6C","value":2971,"pretty":"2971rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:22.322Z","bytes":"410D46","value":70,"pretty":"70km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:22.322Z","bytes":"410CFA8C","value":16035,"pretty":"16035rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:22.543Z","bytes":"4111E5","value":89.80392156862744,"pretty":"89.80392156862744%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:22.544Z","bytes":"410473","value":46,"pretty":"46%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:22.544Z","bytes":"410A45","value":207,"pretty":"207kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:22.577Z","bytes":"410D40","value":64,"pretty":"64km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:22.580Z","bytes":"410CAC60","value":11032,"pretty":"11032rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:22.829Z","bytes":"410D9C","value":156,"pretty":"156km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:22.830Z","bytes":"410CD4E","value":13571.5,"pretty":"13571.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:23.048Z","bytes":"411125","value":14.509803921568627,"pretty":"14.509803921568627%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:23.049Z","bytes":"4104F2","value":96.8,"pretty":"96.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:23.049Z","bytes":"410A93","value":441,"pretty":"441kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:23.083Z","bytes":"410DC0","value":192,"pretty":"192km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:23.084Z","bytes":"410C1F5B","value":2006.75,"pretty":"2006.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:23.339Z","bytes":"410D1F","value":31,"pretty":"31km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:23.339Z","bytes":"410C4E88","value":5026,"pretty":"5026rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:23.550Z","bytes":"4111E1","value":88.23529411764706,"pretty":"88.23529411764706%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:23.551Z","bytes":"4104EF","value":95.6,"pretty":"95.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:23.551Z","bytes":"410A34","value":156,"pretty":"156kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:23.588Z","bytes":"410DB0","value":176,"pretty":"176km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:23.590Z","bytes":"410CB1D9","value":11382.25,"pretty":"11382.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:23.844Z","bytes":"410D97","value":151,"pretty":"151km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:23.844Z","bytes":"410CF31D","value":15559.25,"pretty":"15559.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:24.053Z","bytes":"41118E","value":55.68627450980392,"pretty":"55.68627450980392%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:24.054Z","bytes":"4104E4","value":91.2,"pretty":"91.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:24.054Z","bytes":"410A8C","value":420,"pretty":"420kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:24.098Z","bytes":"410D8D","value":141,"pretty":"141km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:24.098Z","bytes":"410C5D69","value":5978.25,"pretty":"5978.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:24.347Z","bytes":"410DF9","value":249,"pretty":"249km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:24.348Z","bytes":"410C305A","value":3094.5,"pretty":"3094.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:24.557Z","bytes":"41119A","value":60.3921568627451,"pretty":"60.3921568627451%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:24.559Z","bytes":"410478","value":48,"pretty":"48%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:24.560Z","bytes":"410A68","value":312,"pretty":"312kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:24.603Z","bytes":"410DE4","value":228,"pretty":"228km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:24.604Z","bytes":"410CD11A","value":13382.5,"pretty":"13382.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:24.857Z","bytes":"410DEB","value":235,"pretty":"235km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:24.859Z","bytes":"410CFBC7","value":16113.75,"pretty":"16113.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:24.944Z","bytes":"410588","value":96,"pretty":"96°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:25.058Z","bytes":"411106","value":2.3529411764705883,"pretty":"2.3529411764705883%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:25.059Z","bytes":"410401","value":0.4,"pretty":"0.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:25.060Z","bytes":"410A7E","value":378,"pretty":"378kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:25.113Z","bytes":"410DCD","value":205,"pretty":"205km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:25.114Z","bytes":"410CDAF2","value":14012.5,"pretty":"14012.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:25.366Z","bytes":"410D54","value":84,"pretty":"84km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:25.367Z","bytes":"410C031F","value":199.75,"pretty":"199.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:25.562Z","bytes":"411130","value":18.823529411764707,"pretty":"18.823529411764707%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:25.563Z","bytes":"410419","value":10,"pretty":"10%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:25.563Z","bytes":"410AAB","value":513,"pretty":"513kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:25.620Z","bytes":"410DC9","value":201,"pretty":"201km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:25.621Z","bytes":"410CA74E","value":10707.5,"pretty":"10707.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:25.875Z","bytes":"410D29","value":41,"pretty":"41km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:25.875Z","bytes":"410C40FF","value":4159.75,"pretty":"4159.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:26.066Z","bytes":"411151","value":31.764705882352942,"pretty":"31.764705882352942%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:26.067Z","bytes":"4104CE","value":82.4,"pretty":"82.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:26.067Z","bytes":"410A14","value":60,"pretty":"60kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:26.129Z","bytes":"410D5B","value":91,"pretty":"91km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:26.129Z","bytes":"410C5917","value":5701.75,"pretty":"5701.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:26.380Z","bytes":"410D0B","value":11,"pretty":"11km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:26.381Z","bytes":"410CCA1","value":12928.25,"pretty":"12928.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:26.571Z","bytes":"4111DF","value":87.45098039215686,"pretty":"87.45098039215686%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:26.572Z","bytes":"41041A","value":10.4,"pretty":"10.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:26.572Z","bytes":"410A63","value":297,"pretty":"297kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:26.635Z","bytes":"410DD1","value":209,"pretty":"209km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:26.636Z","bytes":"410CFE3D","value":16271.25,"pretty":"16271.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:26.890Z","bytes":"410DA0","value":160,"pretty":"160km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:26.891Z","bytes":"410C11F9","value":1150.25,"pretty":"1150.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:27.070Z","bytes":"411143","value":26.274509803921568,"pretty":"26.274509803921568%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:27.071Z","bytes":"41040E","value":5.6,"pretty":"5.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:27.072Z","bytes":"410A15","value":63,"pretty":"63kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:27.146Z","bytes":"410D6E","value":110,"pretty":"110km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:27.147Z","bytes":"410C6ACA","value":6834.5,"pretty":"6834.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:27.401Z","bytes":"410D91","value":145,"pretty":"145km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:27.403Z","bytes":"410CB3A9","value":11498.25,"pretty":"11498.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:27.575Z","bytes":"41114F","value":30.980392156862745,"pretty":"30.980392156862745%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:27.577Z","bytes":"41042E","value":18.4,"pretty":"18.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:27.577Z","bytes":"410AB6","value":546,"pretty":"546kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:27.653Z","bytes":"410D0A","value":10,"pretty":"10km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:27.655Z","bytes":"410C3819","value":3590.25,"pretty":"3590.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:27.906Z","bytes":"410D74","value":116,"pretty":"116km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:27.907Z","bytes":"410CFDED","value":16251.25,"pretty":"16251.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:28.080Z","bytes":"41116E","value":43.13725490196078,"pretty":"43.13725490196078%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:28.081Z","bytes":"410A0B","value":33,"pretty":"33kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:28.082Z","bytes":"410486","value":53.6,"pretty":"53.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:28.156Z","bytes":"410DE5","value":229,"pretty":"229km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:28.157Z","bytes":"410C1C6B","value":1818.75,"pretty":"1818.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:28.408Z","bytes":"410DF0","value":240,"pretty":"240km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:28.409Z","bytes":"410C4455","value":4373.25,"pretty":"4373.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:28.585Z","bytes":"4111A7","value":65.49019607843137,"pretty":"65.49019607843137%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:28.586Z","bytes":"410A76","value":354,"pretty":"354kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:28.586Z","bytes":"410483","value":52.4,"pretty":"52.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:28.663Z","bytes":"410D04","value":4,"pretty":"4km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:28.663Z","bytes":"410C151D","value":1351.25,"pretty":"1351.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:28.916Z","bytes":"410D62","value":98,"pretty":"98km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:28.917Z","bytes":"410CDB6E","value":14043.5,"pretty":"14043.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:29.090Z","bytes":"41112A","value":16.470588235294116,"pretty":"16.470588235294116%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:29.092Z","bytes":"410A5B","value":273,"pretty":"273kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:29.092Z","bytes":"4104AC","value":68.8,"pretty":"68.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:29.175Z","bytes":"410DE3","value":227,"pretty":"227km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:29.176Z","bytes":"410CC15B","value":12374.75,"pretty":"12374.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:29.428Z","bytes":"410DDA","value":218,"pretty":"218km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:29.429Z","bytes":"410C2C17","value":2821.75,"pretty":"2821.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:29.595Z","bytes":"41111A","value":10.196078431372548,"pretty":"10.196078431372548%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:29.597Z","bytes":"41047F","value":50.8,"pretty":"50.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:29.597Z","bytes":"410ABE","value":570,"pretty":"570kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:29.682Z","bytes":"410D16","value":22,"pretty":"22km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:29.683Z","bytes":"410CE09D","value":14375.25,"pretty":"14375.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:29.934Z","bytes":"410C4CCD","value":4915.25,"pretty":"4915.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:29.935Z","bytes":"410D51","value":81,"pretty":"81km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:29.945Z","bytes":"410595","value":109,"pretty":"109°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:30.100Z","bytes":"4111E9","value":91.37254901960785,"pretty":"91.37254901960785%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:30.102Z","bytes":"4104A9","value":67.6,"pretty":"67.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:30.102Z","bytes":"410AB0","value":528,"pretty":"528kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:30.188Z","bytes":"410C8049","value":8210.25,"pretty":"8210.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:30.189Z","bytes":"410D78","value":120,"pretty":"120km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:30.443Z","bytes":"410C438D","value":4323.25,"pretty":"4323.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:30.444Z","bytes":"410D78","value":120,"pretty":"120km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:30.605Z","bytes":"41118E","value":55.68627450980392,"pretty":"55.68627450980392%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:30.607Z","bytes":"4104FF","value":102,"pretty":"102%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:30.607Z","bytes":"410A17","value":69,"pretty":"69kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:30.696Z","bytes":"410C1810","value":1540,"pretty":"1540rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:30.697Z","bytes":"410D70","value":112,"pretty":"112km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:30.948Z","bytes":"410C6290","value":6308,"pretty":"6308rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:30.948Z","bytes":"410D2E","value":46,"pretty":"46km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:31.110Z","bytes":"4111A8","value":65.88235294117646,"pretty":"65.88235294117646%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:31.111Z","bytes":"410A9C","value":468,"pretty":"468kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:31.111Z","bytes":"41041D","value":11.6,"pretty":"11.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:31.203Z","bytes":"410CA13F","value":10319.75,"pretty":"10319.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:31.204Z","bytes":"410D14","value":20,"pretty":"20km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:31.459Z","bytes":"410C831F","value":8391.75,"pretty":"8391.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:31.460Z","bytes":"410D94","value":148,"pretty":"148km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:31.615Z","bytes":"410AEB","value":705,"pretty":"705kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:31.617Z","bytes":"41044F","value":31.6,"pretty":"31.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:31.617Z","bytes":"41115A","value":35.294117647058826,"pretty":"35.294117647058826%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:31.714Z","bytes":"410C7F92","value":8164.5,"pretty":"8164.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:31.715Z","bytes":"410DE8","value":232,"pretty":"232km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:31.970Z","bytes":"410C584F","value":5651.75,"pretty":"5651.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:31.971Z","bytes":"410DE4","value":228,"pretty":"228km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:32.120Z","bytes":"410A94","value":444,"pretty":"444kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:32.121Z","bytes":"4104B4","value":72,"pretty":"72%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:32.121Z","bytes":"411178","value":47.05882352941176,"pretty":"47.05882352941176%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:32.225Z","bytes":"410CC2BD","value":12463.25,"pretty":"12463.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:32.226Z","bytes":"410D6C","value":108,"pretty":"108km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:32.481Z","bytes":"410C7519","value":7494.25,"pretty":"7494.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:32.482Z","bytes":"410D52","value":82,"pretty":"82km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:32.625Z","bytes":"410ACD","value":615,"pretty":"615kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:32.626Z","bytes":"410492","value":58.4,"pretty":"58.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:32.626Z","bytes":"4111A1","value":63.13725490196078,"pretty":"63.13725490196078%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:32.736Z","bytes":"410CB0F3","value":11324.75,"pretty":"11324.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:32.737Z","bytes":"410DE1","value":225,"pretty":"225km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:32.992Z","bytes":"410C883","value":8704.75,"pretty":"8704.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:32.992Z","bytes":"410D69","value":105,"pretty":"105km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:33.130Z","bytes":"410AB2","value":534,"pretty":"534kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:33.132Z","bytes":"4104BF","value":76.4,"pretty":"76.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:33.133Z","bytes":"411167","value":40.3921568627451,"pretty":"40.3921568627451%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:33.247Z","bytes":"410C0B93","value":740.75,"pretty":"740.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:33.248Z","bytes":"410D51","value":81,"pretty":"81km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:33.502Z","bytes":"410C3E8","value":3970,"pretty":"3970rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:33.503Z","bytes":"410DD3","value":211,"pretty":"211km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:33.635Z","bytes":"410A0C","value":36,"pretty":"36kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:33.636Z","bytes":"4104CC","value":81.6,"pretty":"81.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:33.636Z","bytes":"411155","value":33.333333333333336,"pretty":"33.333333333333336%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:33.752Z","bytes":"410C025","value":129.25,"pretty":"129.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:33.753Z","bytes":"410DF9","value":249,"pretty":"249km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:34.007Z","bytes":"410D54","value":84,"pretty":"84km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:34.008Z","bytes":"410C0760","value":472,"pretty":"472rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:34.139Z","bytes":"410A83","value":393,"pretty":"393kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:34.139Z","bytes":"4104CB","value":81.2,"pretty":"81.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:34.139Z","bytes":"4111A6","value":65.09803921568627,"pretty":"65.09803921568627%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:34.263Z","bytes":"410D12","value":18,"pretty":"18km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:34.263Z","bytes":"410CA787","value":10721.75,"pretty":"10721.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:34.513Z","bytes":"410D99","value":153,"pretty":"153km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:34.515Z","bytes":"410C317C","value":3167,"pretty":"3167rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:34.640Z","bytes":"410AB3","value":537,"pretty":"537kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:34.640Z","bytes":"410445","value":27.6,"pretty":"27.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:34.641Z","bytes":"4111C9","value":78.82352941176471,"pretty":"78.82352941176471%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:34.762Z","bytes":"410D66","value":102,"pretty":"102km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:34.764Z","bytes":"410CD24E","value":13459.5,"pretty":"13459.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:34.948Z","bytes":"410538","value":16,"pretty":"16°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:35.017Z","bytes":"410DE6","value":230,"pretty":"230km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:35.018Z","bytes":"410C7859","value":7702.25,"pretty":"7702.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:35.145Z","bytes":"410A4C","value":228,"pretty":"228kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:35.146Z","bytes":"4104A7","value":66.8,"pretty":"66.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:35.147Z","bytes":"411184","value":51.76470588235294,"pretty":"51.76470588235294%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:35.272Z","bytes":"410D91","value":145,"pretty":"145km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:35.273Z","bytes":"410C2381","value":2272.25,"pretty":"2272.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:35.523Z","bytes":"410DA2","value":162,"pretty":"162km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:35.523Z","bytes":"410C36DC","value":3511,"pretty":"3511rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:35.647Z","bytes":"410A9E","value":474,"pretty":"474kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:35.649Z","bytes":"41115A","value":35.294117647058826,"pretty":"35.294117647058826%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:35.649Z","bytes":"41046B","value":42.8,"pretty":"42.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:35.772Z","bytes":"410D5D","value":93,"pretty":"93km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:35.774Z","bytes":"410CE62D","value":14731.25,"pretty":"14731.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:36.029Z","bytes":"410D01","value":1,"pretty":"1km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:36.029Z","bytes":"410C1B85","value":1761.25,"pretty":"1761.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:36.150Z","bytes":"410A63","value":297,"pretty":"297kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:36.151Z","bytes":"41114B","value":29.41176470588235,"pretty":"29.41176470588235%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:36.151Z","bytes":"410478","value":48,"pretty":"48%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:36.283Z","bytes":"410D79","value":121,"pretty":"121km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:36.284Z","bytes":"410CFAFC","value":16063,"pretty":"16063rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:36.538Z","bytes":"410DE7","value":231,"pretty":"231km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:36.540Z","bytes":"410CB7B9","value":11758.25,"pretty":"11758.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:36.654Z","bytes":"410A09","value":27,"pretty":"27kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:36.658Z","bytes":"4111CB","value":79.6078431372549,"pretty":"79.6078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:36.658Z","bytes":"410436","value":21.6,"pretty":"21.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:36.794Z","bytes":"410DA0","value":160,"pretty":"160km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:36.795Z","bytes":"410C9A36","value":9869.5,"pretty":"9869.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:37.049Z","bytes":"410C25BC","value":2415,"pretty":"2415rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:37.049Z","bytes":"410D56","value":86,"pretty":"86km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:37.159Z","bytes":"410A86","value":402,"pretty":"402kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:37.164Z","bytes":"4111B2","value":69.80392156862744,"pretty":"69.80392156862744%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:37.167Z","bytes":"41046B","value":42.8,"pretty":"42.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:37.301Z","bytes":"410CA158","value":10326,"pretty":"10326rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:37.301Z","bytes":"410DF1","value":241,"pretty":"241km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:37.554Z","bytes":"410CBC17","value":12037.75,"pretty":"12037.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:37.554Z","bytes":"410D23","value":35,"pretty":"35km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:37.664Z","bytes":"410A66","value":306,"pretty":"306kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:37.665Z","bytes":"4104C8","value":80,"pretty":"80%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:37.666Z","bytes":"41113E","value":24.313725490196077,"pretty":"24.313725490196077%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:37.809Z","bytes":"410C7B8","value":7874,"pretty":"7874rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:37.810Z","bytes":"410D49","value":73,"pretty":"73km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:38.062Z","bytes":"410C4411","value":4356.25,"pretty":"4356.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:38.063Z","bytes":"410D76","value":118,"pretty":"118km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:38.170Z","bytes":"410AE1","value":675,"pretty":"675kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:38.171Z","bytes":"4111C8","value":78.43137254901961,"pretty":"78.43137254901961%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:38.171Z","bytes":"41040F","value":6,"pretty":"6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:38.314Z","bytes":"410C9DAD","value":10091.25,"pretty":"10091.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:38.315Z","bytes":"410D7F","value":127,"pretty":"127km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:38.570Z","bytes":"410C7098","value":7206,"pretty":"7206rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:38.571Z","bytes":"410D62","value":98,"pretty":"98km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:38.674Z","bytes":"410A77","value":357,"pretty":"357kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:38.676Z","bytes":"411125","value":14.509803921568627,"pretty":"14.509803921568627%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:38.676Z","bytes":"410453","value":33.2,"pretty":"33.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:38.820Z","bytes":"410CE995","value":14949.25,"pretty":"14949.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:38.821Z","bytes":"410D79","value":121,"pretty":"121km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:39.075Z","bytes":"410C6445","value":6417.25,"pretty":"6417.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:39.076Z","bytes":"410D11","value":17,"pretty":"17km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:39.179Z","bytes":"410A6F","value":333,"pretty":"333kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:39.180Z","bytes":"41049C","value":62.4,"pretty":"62.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:39.180Z","bytes":"4111A8","value":65.88235294117646,"pretty":"65.88235294117646%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:39.328Z","bytes":"410CABE7","value":11001.75,"pretty":"11001.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:39.329Z","bytes":"410DB3","value":179,"pretty":"179km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:39.582Z","bytes":"410C2C19","value":2822.25,"pretty":"2822.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:39.582Z","bytes":"410D2C","value":44,"pretty":"44km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:39.684Z","bytes":"410A3A","value":174,"pretty":"174kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:39.685Z","bytes":"41046C","value":43.2,"pretty":"43.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:39.686Z","bytes":"41111C","value":10.980392156862745,"pretty":"10.980392156862745%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:39.835Z","bytes":"410C3DFC","value":3967,"pretty":"3967rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:39.836Z","bytes":"410D8D","value":141,"pretty":"141km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:39.952Z","bytes":"41054C","value":36,"pretty":"36°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:40.091Z","bytes":"410C0CD5","value":821.25,"pretty":"821.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:40.091Z","bytes":"410D52","value":82,"pretty":"82km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:40.190Z","bytes":"410AA3","value":489,"pretty":"489kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:40.191Z","bytes":"4111A0","value":62.745098039215684,"pretty":"62.745098039215684%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:40.191Z","bytes":"410491","value":58,"pretty":"58%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:40.345Z","bytes":"410C85CC","value":8563,"pretty":"8563rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:40.346Z","bytes":"410D7E","value":126,"pretty":"126km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:40.598Z","bytes":"410C689A","value":6694.5,"pretty":"6694.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:40.599Z","bytes":"410D4B","value":75,"pretty":"75km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:40.694Z","bytes":"410A46","value":210,"pretty":"210kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:40.696Z","bytes":"41111E","value":11.76470588235294,"pretty":"11.76470588235294%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:40.696Z","bytes":"410430","value":19.2,"pretty":"19.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:40.851Z","bytes":"410CA73B","value":10702.75,"pretty":"10702.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:40.852Z","bytes":"410DBB","value":187,"pretty":"187km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:41.105Z","bytes":"410C944C","value":9491,"pretty":"9491rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:41.106Z","bytes":"410DA2","value":162,"pretty":"162km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:41.199Z","bytes":"410A99","value":459,"pretty":"459kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:41.201Z","bytes":"411116","value":8.627450980392156,"pretty":"8.627450980392156%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:41.201Z","bytes":"4104C9","value":80.4,"pretty":"80.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:41.359Z","bytes":"410C5126","value":5193.5,"pretty":"5193.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:41.360Z","bytes":"410D71","value":113,"pretty":"113km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:41.612Z","bytes":"410C9C69","value":10010.25,"pretty":"10010.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:41.613Z","bytes":"410DEB","value":235,"pretty":"235km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:41.704Z","bytes":"410A7F","value":381,"pretty":"381kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:41.705Z","bytes":"4104BF","value":76.4,"pretty":"76.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:41.705Z","bytes":"4111D4","value":83.13725490196079,"pretty":"83.13725490196079%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:41.868Z","bytes":"410CD9D6","value":13941.5,"pretty":"13941.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:41.869Z","bytes":"410D20","value":32,"pretty":"32km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:42.118Z","bytes":"410C848C","value":8483,"pretty":"8483rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:42.119Z","bytes":"410D44","value":68,"pretty":"68km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:42.210Z","bytes":"410A3F","value":189,"pretty":"189kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:42.211Z","bytes":"4104D8","value":86.4,"pretty":"86.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:42.211Z","bytes":"411190","value":56.470588235294116,"pretty":"56.470588235294116%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:42.372Z","bytes":"410CF5A4","value":15721,"pretty":"15721rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:42.373Z","bytes":"410D06","value":6,"pretty":"6km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:42.628Z","bytes":"410C604A","value":6162.5,"pretty":"6162.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:42.629Z","bytes":"410DC0","value":192,"pretty":"192km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:42.715Z","bytes":"410A82","value":390,"pretty":"390kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:42.716Z","bytes":"4104B7","value":73.2,"pretty":"73.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:42.716Z","bytes":"4111B7","value":71.76470588235294,"pretty":"71.76470588235294%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:42.883Z","bytes":"410CF82C","value":15883,"pretty":"15883rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:42.884Z","bytes":"410D60","value":96,"pretty":"96km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:43.139Z","bytes":"410C277A","value":2526.5,"pretty":"2526.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:43.140Z","bytes":"410DAC","value":172,"pretty":"172km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:43.220Z","bytes":"410A02","value":6,"pretty":"6kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:43.221Z","bytes":"4104F2","value":96.8,"pretty":"96.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:43.222Z","bytes":"41110A","value":3.9215686274509802,"pretty":"3.9215686274509802%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:43.389Z","bytes":"410C5EE7","value":6073.75,"pretty":"6073.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:43.391Z","bytes":"410D29","value":41,"pretty":"41km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:43.637Z","bytes":"410CEB13","value":15044.75,"pretty":"15044.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:43.643Z","bytes":"410DB8","value":184,"pretty":"184km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:43.724Z","bytes":"410A57","value":261,"pretty":"261kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:43.725Z","bytes":"410432","value":20,"pretty":"20%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:43.725Z","bytes":"4111BE","value":74.50980392156863,"pretty":"74.50980392156863%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:43.889Z","bytes":"410CBE49","value":12178.25,"pretty":"12178.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:43.894Z","bytes":"410D11","value":17,"pretty":"17km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:44.145Z","bytes":"410CAFED","value":11259.25,"pretty":"11259.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:44.146Z","bytes":"410DA0","value":160,"pretty":"160km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:44.230Z","bytes":"41042B","value":17.2,"pretty":"17.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:44.231Z","bytes":"411153","value":32.549019607843135,"pretty":"32.549019607843135%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:44.231Z","bytes":"410A9C","value":468,"pretty":"468kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:44.398Z","bytes":"410C9835","value":9741.25,"pretty":"9741.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:44.398Z","bytes":"410D63","value":99,"pretty":"99km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:44.650Z","bytes":"410CA83D","value":10767.25,"pretty":"10767.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:44.651Z","bytes":"410D8B","value":139,"pretty":"139km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:44.735Z","bytes":"4104F5","value":98,"pretty":"98%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:44.736Z","bytes":"4111AA","value":66.66666666666667,"pretty":"66.66666666666667%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:44.736Z","bytes":"410AD6","value":642,"pretty":"642kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:44.903Z","bytes":"410C7C41","value":7952.25,"pretty":"7952.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:44.904Z","bytes":"410D99","value":153,"pretty":"153km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:44.955Z","bytes":"4105DD","value":181,"pretty":"181°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:45.153Z","bytes":"410C1A9C","value":1703,"pretty":"1703rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:45.154Z","bytes":"410D59","value":89,"pretty":"89km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:45.240Z","bytes":"410423","value":14,"pretty":"14%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:45.241Z","bytes":"4111CF","value":81.17647058823529,"pretty":"81.17647058823529%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:45.241Z","bytes":"410A02","value":6,"pretty":"6kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:45.408Z","bytes":"410C8662","value":8600.5,"pretty":"8600.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:45.409Z","bytes":"410D71","value":113,"pretty":"113km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:45.661Z","bytes":"410CC3CA","value":12530.5,"pretty":"12530.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:45.662Z","bytes":"410D43","value":67,"pretty":"67km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:45.745Z","bytes":"410429","value":16.4,"pretty":"16.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:45.746Z","bytes":"411118","value":9.411764705882353,"pretty":"9.411764705882353%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:45.746Z","bytes":"410A8D","value":423,"pretty":"423kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:45.913Z","bytes":"410C37A6","value":3561.5,"pretty":"3561.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:45.914Z","bytes":"410D81","value":129,"pretty":"129km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:46.168Z","bytes":"410CE1EE","value":14459.5,"pretty":"14459.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:46.168Z","bytes":"410D03","value":3,"pretty":"3km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:46.246Z","bytes":"410432","value":20,"pretty":"20%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:46.247Z","bytes":"411152","value":32.15686274509804,"pretty":"32.15686274509804%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:46.248Z","bytes":"410A3A","value":174,"pretty":"174kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:46.421Z","bytes":"410D2C","value":44,"pretty":"44km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:46.421Z","bytes":"410C06B2","value":428.5,"pretty":"428.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:46.674Z","bytes":"410DE7","value":231,"pretty":"231km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:46.675Z","bytes":"410C0DCB","value":882.75,"pretty":"882.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:46.749Z","bytes":"4104A9","value":67.6,"pretty":"67.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:46.750Z","bytes":"41114B","value":29.41176470588235,"pretty":"29.41176470588235%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:46.750Z","bytes":"410A33","value":153,"pretty":"153kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:46.930Z","bytes":"410D8C","value":140,"pretty":"140km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:46.931Z","bytes":"410CCF30","value":13260,"pretty":"13260rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:47.184Z","bytes":"410DF6","value":246,"pretty":"246km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:47.185Z","bytes":"410C8A48","value":8850,"pretty":"8850rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:47.252Z","bytes":"4104FA","value":100,"pretty":"100%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:47.254Z","bytes":"4111C9","value":78.82352941176471,"pretty":"78.82352941176471%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:47.254Z","bytes":"410AC3","value":585,"pretty":"585kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:47.439Z","bytes":"410DD4","value":212,"pretty":"212km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:47.440Z","bytes":"410C6E66","value":7065.5,"pretty":"7065.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:47.689Z","bytes":"410D19","value":25,"pretty":"25km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:47.692Z","bytes":"410C3A20","value":3720,"pretty":"3720rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:47.757Z","bytes":"410498","value":60.8,"pretty":"60.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:47.758Z","bytes":"410A3B","value":177,"pretty":"177kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:47.759Z","bytes":"4111D8","value":84.70588235294117,"pretty":"84.70588235294117%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:47.944Z","bytes":"410DBB","value":187,"pretty":"187km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:47.945Z","bytes":"410C1A6C","value":1691,"pretty":"1691rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:48.197Z","bytes":"410DE4","value":228,"pretty":"228km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:48.198Z","bytes":"410C162E","value":1419.5,"pretty":"1419.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:48.261Z","bytes":"4104B7","value":73.2,"pretty":"73.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:48.262Z","bytes":"410AA9","value":507,"pretty":"507kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:48.262Z","bytes":"411157","value":34.11764705882353,"pretty":"34.11764705882353%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:48.450Z","bytes":"410D89","value":137,"pretty":"137km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:48.451Z","bytes":"410CC9AD","value":12907.25,"pretty":"12907.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:48.700Z","bytes":"410D55","value":85,"pretty":"85km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:48.701Z","bytes":"410C738F","value":7395.75,"pretty":"7395.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:48.765Z","bytes":"41042E","value":18.4,"pretty":"18.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:48.767Z","bytes":"410ABC","value":564,"pretty":"564kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:48.767Z","bytes":"4111C1","value":75.68627450980392,"pretty":"75.68627450980392%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:48.955Z","bytes":"410D9B","value":155,"pretty":"155km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:48.955Z","bytes":"410CEE14","value":15237,"pretty":"15237rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:49.210Z","bytes":"410D85","value":133,"pretty":"133km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:49.211Z","bytes":"410C45DA","value":4470.5,"pretty":"4470.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:49.268Z","bytes":"410A75","value":351,"pretty":"351kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:49.269Z","bytes":"410472","value":45.6,"pretty":"45.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:49.269Z","bytes":"41119A","value":60.3921568627451,"pretty":"60.3921568627451%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:49.466Z","bytes":"410D99","value":153,"pretty":"153km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:49.467Z","bytes":"410CC964","value":12889,"pretty":"12889rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:49.721Z","bytes":"410DF3","value":243,"pretty":"243km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:49.721Z","bytes":"410CAE93","value":11172.75,"pretty":"11172.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:49.773Z","bytes":"410A5F","value":285,"pretty":"285kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:49.775Z","bytes":"4104ED","value":94.8,"pretty":"94.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:49.775Z","bytes":"41114E","value":30.588235294117645,"pretty":"30.588235294117645%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:49.959Z","bytes":"4105E9","value":193,"pretty":"193°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:49.974Z","bytes":"410D9C","value":156,"pretty":"156km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:49.975Z","bytes":"410C41B9","value":4206.25,"pretty":"4206.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:50.228Z","bytes":"410DE6","value":230,"pretty":"230km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:50.228Z","bytes":"410CB698","value":11686,"pretty":"11686rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:50.279Z","bytes":"410AF3","value":729,"pretty":"729kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:50.280Z","bytes":"41044A","value":29.6,"pretty":"29.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:50.280Z","bytes":"4111BE","value":74.50980392156863,"pretty":"74.50980392156863%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:50.482Z","bytes":"410D63","value":99,"pretty":"99km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:50.482Z","bytes":"410C513E","value":5199.5,"pretty":"5199.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:50.737Z","bytes":"410D97","value":151,"pretty":"151km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:50.738Z","bytes":"410C6DBC","value":7023,"pretty":"7023rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:50.780Z","bytes":"410A60","value":288,"pretty":"288kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:50.781Z","bytes":"411123","value":13.72549019607843,"pretty":"13.72549019607843%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:50.781Z","bytes":"41045C","value":36.8,"pretty":"36.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:50.990Z","bytes":"410D17","value":23,"pretty":"23km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:50.991Z","bytes":"410CB6A9","value":11690.25,"pretty":"11690.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:51.245Z","bytes":"410DD1","value":209,"pretty":"209km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:51.245Z","bytes":"410C18D4","value":1589,"pretty":"1589rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:51.282Z","bytes":"410451","value":32.4,"pretty":"32.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:51.283Z","bytes":"410ABE","value":570,"pretty":"570kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:51.284Z","bytes":"411107","value":2.7450980392156863,"pretty":"2.7450980392156863%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:51.497Z","bytes":"410D57","value":87,"pretty":"87km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:51.498Z","bytes":"410CCDFE","value":13183.5,"pretty":"13183.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:51.747Z","bytes":"410DA4","value":164,"pretty":"164km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:51.749Z","bytes":"410C18E7","value":1593.75,"pretty":"1593.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:51.782Z","bytes":"41041A","value":10.4,"pretty":"10.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:51.783Z","bytes":"410A8C","value":420,"pretty":"420kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:51.784Z","bytes":"411176","value":46.27450980392157,"pretty":"46.27450980392157%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:52.003Z","bytes":"410D26","value":38,"pretty":"38km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:52.004Z","bytes":"410CA88B","value":10786.75,"pretty":"10786.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:52.258Z","bytes":"410DE5","value":229,"pretty":"229km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:52.259Z","bytes":"410C4D7B","value":4958.75,"pretty":"4958.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:52.287Z","bytes":"4104BF","value":76.4,"pretty":"76.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:52.288Z","bytes":"410A2B","value":129,"pretty":"129kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:52.289Z","bytes":"411190","value":56.470588235294116,"pretty":"56.470588235294116%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:52.512Z","bytes":"410DF0","value":240,"pretty":"240km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:52.513Z","bytes":"410CF3A6","value":15593.5,"pretty":"15593.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:52.767Z","bytes":"410D5B","value":91,"pretty":"91km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:52.768Z","bytes":"410CC2B6","value":12461.5,"pretty":"12461.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:52.790Z","bytes":"410411","value":6.8,"pretty":"6.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:52.791Z","bytes":"410A54","value":252,"pretty":"252kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:52.792Z","bytes":"411134","value":20.392156862745097,"pretty":"20.392156862745097%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:53.018Z","bytes":"410D2C","value":44,"pretty":"44km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:53.020Z","bytes":"410C93BD","value":9455.25,"pretty":"9455.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:53.274Z","bytes":"410D0F","value":15,"pretty":"15km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:53.275Z","bytes":"410C952E","value":9547.5,"pretty":"9547.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:53.292Z","bytes":"4104E2","value":90.4,"pretty":"90.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:53.293Z","bytes":"411149","value":28.627450980392158,"pretty":"28.627450980392158%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:53.293Z","bytes":"410AE3","value":681,"pretty":"681kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:53.527Z","bytes":"410D91","value":145,"pretty":"145km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:53.528Z","bytes":"410C80C4","value":8241,"pretty":"8241rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:53.779Z","bytes":"410D73","value":115,"pretty":"115km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:53.780Z","bytes":"410C4DB8","value":4974,"pretty":"4974rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:53.793Z","bytes":"41042A","value":16.8,"pretty":"16.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:53.794Z","bytes":"4111FF","value":100,"pretty":"100%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:53.795Z","bytes":"410AF1","value":723,"pretty":"723kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:54.030Z","bytes":"410D31","value":49,"pretty":"49km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:54.031Z","bytes":"410C9864","value":9753,"pretty":"9753rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:54.284Z","bytes":"410DBD","value":189,"pretty":"189km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:54.285Z","bytes":"410C6D5B","value":6998.75,"pretty":"6998.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:54.295Z","bytes":"410419","value":10,"pretty":"10%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:54.296Z","bytes":"4111D9","value":85.09803921568627,"pretty":"85.09803921568627%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:54.297Z","bytes":"410A6A","value":318,"pretty":"318kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:54.533Z","bytes":"410DC9","value":201,"pretty":"201km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:54.535Z","bytes":"410CB5D9","value":11638.25,"pretty":"11638.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:54.789Z","bytes":"410D3B","value":59,"pretty":"59km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:54.790Z","bytes":"410CA161","value":10328.25,"pretty":"10328.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:54.794Z","bytes":"41045C","value":36.8,"pretty":"36.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:54.796Z","bytes":"411104","value":1.5686274509803921,"pretty":"1.5686274509803921%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:54.796Z","bytes":"410ADE","value":666,"pretty":"666kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:54.963Z","bytes":"41059E","value":118,"pretty":"118°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:50:55.039Z","bytes":"410D11","value":17,"pretty":"17km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:55.041Z","bytes":"410C8C54","value":8981,"pretty":"8981rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:55.290Z","bytes":"410D5C","value":92,"pretty":"92km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:55.291Z","bytes":"410C929C","value":9383,"pretty":"9383rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:55.296Z","bytes":"410402","value":0.8,"pretty":"0.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:55.297Z","bytes":"4111C7","value":78.0392156862745,"pretty":"78.0392156862745%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:55.297Z","bytes":"410A49","value":219,"pretty":"219kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:55.544Z","bytes":"410D55","value":85,"pretty":"85km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:55.544Z","bytes":"410C9563","value":9560.75,"pretty":"9560.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:55.798Z","bytes":"410D93","value":147,"pretty":"147km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:55.799Z","bytes":"410C4CD","value":4867.25,"pretty":"4867.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:55.800Z","bytes":"410473","value":46,"pretty":"46%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:55.801Z","bytes":"411162","value":38.431372549019606,"pretty":"38.431372549019606%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:55.803Z","bytes":"410AD9","value":651,"pretty":"651kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:56.048Z","bytes":"410DCA","value":202,"pretty":"202km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:56.050Z","bytes":"410C90AD","value":9259.25,"pretty":"9259.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:56.299Z","bytes":"410D68","value":104,"pretty":"104km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:56.300Z","bytes":"410C6BB0","value":6892,"pretty":"6892rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:56.301Z","bytes":"4104AD","value":69.2,"pretty":"69.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:56.301Z","bytes":"4111D3","value":82.74509803921569,"pretty":"82.74509803921569%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:56.303Z","bytes":"410AE5","value":687,"pretty":"687kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:56.553Z","bytes":"410D67","value":103,"pretty":"103km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:56.554Z","bytes":"410C6259","value":6294.25,"pretty":"6294.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:56.803Z","bytes":"4104F4","value":97.6,"pretty":"97.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:56.804Z","bytes":"410AD6","value":642,"pretty":"642kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:56.805Z","bytes":"41113E","value":24.313725490196077,"pretty":"24.313725490196077%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:56.805Z","bytes":"410D72","value":114,"pretty":"114km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:56.806Z","bytes":"410C57E8","value":5626,"pretty":"5626rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:57.059Z","bytes":"410DA4","value":164,"pretty":"164km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:57.060Z","bytes":"410CA7AB","value":10730.75,"pretty":"10730.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:57.302Z","bytes":"4104A9","value":67.6,"pretty":"67.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:57.304Z","bytes":"410AEE","value":714,"pretty":"714kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:57.305Z","bytes":"411111","value":6.666666666666667,"pretty":"6.666666666666667%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:57.309Z","bytes":"410DC1","value":193,"pretty":"193km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:57.310Z","bytes":"410C938C","value":9443,"pretty":"9443rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:57.564Z","bytes":"410D5F","value":95,"pretty":"95km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:57.565Z","bytes":"410CCEF3","value":13244.75,"pretty":"13244.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:57.808Z","bytes":"410444","value":27.2,"pretty":"27.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:57.809Z","bytes":"410A6F","value":333,"pretty":"333kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:57.809Z","bytes":"411172","value":44.705882352941174,"pretty":"44.705882352941174%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:57.815Z","bytes":"410DA3","value":163,"pretty":"163km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:57.816Z","bytes":"410C90F","value":9219.75,"pretty":"9219.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:58.069Z","bytes":"410D1B","value":27,"pretty":"27km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:58.071Z","bytes":"410CBBAB","value":12010.75,"pretty":"12010.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:58.312Z","bytes":"410478","value":48,"pretty":"48%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:58.314Z","bytes":"410A06","value":18,"pretty":"18kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:58.314Z","bytes":"4111EE","value":93.33333333333333,"pretty":"93.33333333333333%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:58.319Z","bytes":"410DCF","value":207,"pretty":"207km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:58.320Z","bytes":"410C1761","value":1496.25,"pretty":"1496.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:58.574Z","bytes":"410D75","value":117,"pretty":"117km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:58.574Z","bytes":"410C5C33","value":5900.75,"pretty":"5900.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:58.817Z","bytes":"410A31","value":147,"pretty":"147kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:58.818Z","bytes":"41043E","value":24.8,"pretty":"24.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:58.819Z","bytes":"41116B","value":41.96078431372549,"pretty":"41.96078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:58.826Z","bytes":"410DD5","value":213,"pretty":"213km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:58.827Z","bytes":"410C17EA","value":1530.5,"pretty":"1530.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:59.081Z","bytes":"410D63","value":99,"pretty":"99km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:59.082Z","bytes":"410C1C80","value":1824,"pretty":"1824rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:59.321Z","bytes":"410AA4","value":492,"pretty":"492kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:59.322Z","bytes":"4104A5","value":66,"pretty":"66%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:59.322Z","bytes":"411144","value":26.666666666666668,"pretty":"26.666666666666668%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:59.331Z","bytes":"410D04","value":4,"pretty":"4km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:59.333Z","bytes":"410CCF2B","value":13258.75,"pretty":"13258.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:59.584Z","bytes":"410DE3","value":227,"pretty":"227km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:59.585Z","bytes":"410CEC81","value":15136.25,"pretty":"15136.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:59.822Z","bytes":"410A54","value":252,"pretty":"252kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:50:59.823Z","bytes":"4104B4","value":72,"pretty":"72%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:50:59.824Z","bytes":"41112E","value":18.03921568627451,"pretty":"18.03921568627451%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:50:59.836Z","bytes":"410D48","value":72,"pretty":"72km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:50:59.838Z","bytes":"410C4FCD","value":5107.25,"pretty":"5107.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:50:59.967Z","bytes":"41055C","value":52,"pretty":"52°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:00.089Z","bytes":"410D02","value":2,"pretty":"2km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:00.090Z","bytes":"410C532","value":5312.5,"pretty":"5312.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:00.327Z","bytes":"410A3A","value":174,"pretty":"174kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:00.328Z","bytes":"411191","value":56.86274509803921,"pretty":"56.86274509803921%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:00.328Z","bytes":"41041F","value":12.4,"pretty":"12.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:00.341Z","bytes":"410D1E","value":30,"pretty":"30km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:00.341Z","bytes":"410C7022","value":7176.5,"pretty":"7176.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:00.594Z","bytes":"410DF5","value":245,"pretty":"245km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:00.594Z","bytes":"410C2AC0","value":2736,"pretty":"2736rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:00.831Z","bytes":"410A90","value":432,"pretty":"432kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:00.833Z","bytes":"41118B","value":54.509803921568626,"pretty":"54.509803921568626%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:00.833Z","bytes":"4104DA","value":87.2,"pretty":"87.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:00.843Z","bytes":"410DC7","value":199,"pretty":"199km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:00.845Z","bytes":"410C802","value":8192.5,"pretty":"8192.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:01.098Z","bytes":"410D77","value":119,"pretty":"119km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:01.099Z","bytes":"410C519B","value":5222.75,"pretty":"5222.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:01.337Z","bytes":"410A59","value":267,"pretty":"267kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:01.338Z","bytes":"411199","value":60,"pretty":"60%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:01.338Z","bytes":"410463","value":39.6,"pretty":"39.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:01.352Z","bytes":"410DB7","value":183,"pretty":"183km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:01.353Z","bytes":"410CF543","value":15696.75,"pretty":"15696.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:01.604Z","bytes":"410DC1","value":193,"pretty":"193km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:01.605Z","bytes":"410C44CD","value":4403.25,"pretty":"4403.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:01.842Z","bytes":"410AD5","value":639,"pretty":"639kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:01.843Z","bytes":"411108","value":3.1372549019607843,"pretty":"3.1372549019607843%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:01.844Z","bytes":"410495","value":59.6,"pretty":"59.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:01.856Z","bytes":"410DAE","value":174,"pretty":"174km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:01.857Z","bytes":"410CEEB0","value":15276,"pretty":"15276rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:02.111Z","bytes":"410D84","value":132,"pretty":"132km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:02.111Z","bytes":"410C10FF","value":1087.75,"pretty":"1087.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:02.346Z","bytes":"410A2A","value":126,"pretty":"126kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:02.347Z","bytes":"41116B","value":41.96078431372549,"pretty":"41.96078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:02.348Z","bytes":"410479","value":48.4,"pretty":"48.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:02.364Z","bytes":"410DFC","value":252,"pretty":"252km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:02.364Z","bytes":"410C1F36","value":1997.5,"pretty":"1997.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:02.614Z","bytes":"410D00","value":0,"pretty":"0km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:02.615Z","bytes":"410C534D","value":5331.25,"pretty":"5331.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:02.852Z","bytes":"410A9E","value":474,"pretty":"474kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:02.853Z","bytes":"411180","value":50.19607843137255,"pretty":"50.19607843137255%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:02.853Z","bytes":"4104AA","value":68,"pretty":"68%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:02.868Z","bytes":"410D70","value":112,"pretty":"112km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:02.868Z","bytes":"410C64EB","value":6458.75,"pretty":"6458.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:03.123Z","bytes":"410DF1","value":241,"pretty":"241km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:03.123Z","bytes":"410C6217","value":6277.75,"pretty":"6277.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:03.357Z","bytes":"410A32","value":150,"pretty":"150kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:03.358Z","bytes":"411149","value":28.627450980392158,"pretty":"28.627450980392158%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:03.359Z","bytes":"4104D8","value":86.4,"pretty":"86.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:03.377Z","bytes":"410DC4","value":196,"pretty":"196km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:03.379Z","bytes":"410C28BF","value":2607.75,"pretty":"2607.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:03.631Z","bytes":"410D9D","value":157,"pretty":"157km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:03.632Z","bytes":"410CF781","value":15840.25,"pretty":"15840.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:03.860Z","bytes":"410A72","value":342,"pretty":"342kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:03.861Z","bytes":"41049C","value":62.4,"pretty":"62.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:03.861Z","bytes":"4111A1","value":63.13725490196078,"pretty":"63.13725490196078%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:03.885Z","bytes":"410D45","value":69,"pretty":"69km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:03.885Z","bytes":"410C55E3","value":5496.75,"pretty":"5496.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:04.139Z","bytes":"410D68","value":104,"pretty":"104km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:04.139Z","bytes":"410C9F5E","value":10199.5,"pretty":"10199.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:04.367Z","bytes":"410A77","value":357,"pretty":"357kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:04.368Z","bytes":"4104B1","value":70.8,"pretty":"70.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:04.368Z","bytes":"411158","value":34.509803921568626,"pretty":"34.509803921568626%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:04.393Z","bytes":"410DDD","value":221,"pretty":"221km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:04.394Z","bytes":"410C165F","value":1431.75,"pretty":"1431.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:04.646Z","bytes":"410D54","value":84,"pretty":"84km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:04.647Z","bytes":"410C3BD3","value":3828.75,"pretty":"3828.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:04.867Z","bytes":"410A2C","value":132,"pretty":"132kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:04.868Z","bytes":"410474","value":46.4,"pretty":"46.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:04.869Z","bytes":"4111E5","value":89.80392156862744,"pretty":"89.80392156862744%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:04.901Z","bytes":"410D16","value":22,"pretty":"22km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:04.903Z","bytes":"410C1C4","value":1793,"pretty":"1793rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:04.970Z","bytes":"410575","value":77,"pretty":"77°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:05.157Z","bytes":"410D34","value":52,"pretty":"52km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:05.158Z","bytes":"410C1FE","value":1987.5,"pretty":"1987.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:05.372Z","bytes":"410A2D","value":135,"pretty":"135kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:05.373Z","bytes":"410422","value":13.6,"pretty":"13.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:05.373Z","bytes":"411129","value":16.07843137254902,"pretty":"16.07843137254902%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:05.412Z","bytes":"410D67","value":103,"pretty":"103km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:05.412Z","bytes":"410C9F30","value":10188,"pretty":"10188rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:05.668Z","bytes":"410D12","value":18,"pretty":"18km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:05.669Z","bytes":"410CBEBD","value":12207.25,"pretty":"12207.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:05.876Z","bytes":"410AE5","value":687,"pretty":"687kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:05.877Z","bytes":"4104E9","value":93.2,"pretty":"93.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:05.877Z","bytes":"411114","value":7.8431372549019605,"pretty":"7.8431372549019605%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:05.923Z","bytes":"410D8A","value":138,"pretty":"138km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:05.923Z","bytes":"410C9A42","value":9872.5,"pretty":"9872.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:06.178Z","bytes":"410D44","value":68,"pretty":"68km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:06.179Z","bytes":"410C56E8","value":5562,"pretty":"5562rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:06.380Z","bytes":"410A02","value":6,"pretty":"6kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:06.381Z","bytes":"4104B6","value":72.8,"pretty":"72.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:06.382Z","bytes":"41117C","value":48.627450980392155,"pretty":"48.627450980392155%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:06.430Z","bytes":"410DF5","value":245,"pretty":"245km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:06.431Z","bytes":"410C3C29","value":3850.25,"pretty":"3850.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:06.683Z","bytes":"410C5510","value":5444,"pretty":"5444rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:06.684Z","bytes":"410D6B","value":107,"pretty":"107km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:06.881Z","bytes":"410AFE","value":762,"pretty":"762kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:06.881Z","bytes":"410468","value":41.6,"pretty":"41.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:06.882Z","bytes":"41115C","value":36.07843137254902,"pretty":"36.07843137254902%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:06.933Z","bytes":"410CF8C3","value":15920.75,"pretty":"15920.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:06.934Z","bytes":"410D06","value":6,"pretty":"6km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:07.189Z","bytes":"410C7761","value":7640.25,"pretty":"7640.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:07.190Z","bytes":"410DED","value":237,"pretty":"237km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:07.385Z","bytes":"410AF9","value":747,"pretty":"747kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:07.388Z","bytes":"4104ED","value":94.8,"pretty":"94.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:07.388Z","bytes":"41111A","value":10.196078431372548,"pretty":"10.196078431372548%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:07.444Z","bytes":"410C59FB","value":5758.75,"pretty":"5758.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:07.445Z","bytes":"410D25","value":37,"pretty":"37km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:07.699Z","bytes":"410C80B3","value":8236.75,"pretty":"8236.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:07.700Z","bytes":"410D15","value":21,"pretty":"21km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:07.891Z","bytes":"410A9F","value":477,"pretty":"477kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:07.892Z","bytes":"4104ED","value":94.8,"pretty":"94.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:07.892Z","bytes":"411121","value":12.941176470588236,"pretty":"12.941176470588236%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:07.949Z","bytes":"410C5FBC","value":6127,"pretty":"6127rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:07.950Z","bytes":"410DEB","value":235,"pretty":"235km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:08.204Z","bytes":"410CF167","value":15449.75,"pretty":"15449.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:08.205Z","bytes":"410D52","value":82,"pretty":"82km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:08.395Z","bytes":"410A20","value":96,"pretty":"96kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:08.397Z","bytes":"4104D4","value":84.8,"pretty":"84.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:08.397Z","bytes":"4111CC","value":80,"pretty":"80%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:08.458Z","bytes":"410C3EC4","value":4017,"pretty":"4017rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:08.459Z","bytes":"410DCF","value":207,"pretty":"207km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:08.710Z","bytes":"410C33B4","value":3309,"pretty":"3309rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:08.710Z","bytes":"410DAB","value":171,"pretty":"171km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:08.901Z","bytes":"410A18","value":72,"pretty":"72kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:08.902Z","bytes":"410430","value":19.2,"pretty":"19.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:08.902Z","bytes":"4111D4","value":83.13725490196079,"pretty":"83.13725490196079%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:08.964Z","bytes":"410CD0C5","value":13361.25,"pretty":"13361.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:08.965Z","bytes":"410D61","value":97,"pretty":"97km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:09.220Z","bytes":"410C2B7B","value":2782.75,"pretty":"2782.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:09.221Z","bytes":"410DC9","value":201,"pretty":"201km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:09.406Z","bytes":"410AB4","value":540,"pretty":"540kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:09.407Z","bytes":"410400","value":0,"pretty":"0%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:09.408Z","bytes":"41113B","value":23.137254901960784,"pretty":"23.137254901960784%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:09.470Z","bytes":"410C942D","value":9483.25,"pretty":"9483.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:09.471Z","bytes":"410DA5","value":165,"pretty":"165km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:09.725Z","bytes":"410C94A5","value":9513.25,"pretty":"9513.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:09.726Z","bytes":"410D0B","value":11,"pretty":"11km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:09.911Z","bytes":"410AED","value":711,"pretty":"711kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:09.913Z","bytes":"41047C","value":49.6,"pretty":"49.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:09.913Z","bytes":"41117B","value":48.23529411764706,"pretty":"48.23529411764706%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:09.930Z","bytes":"412FC3","value":76.47058823529412,"pretty":"76.47058823529412%","name":"Fuel Level Input","pid":"2F"}
+{"ts":"2016-12-20T07:51:09.975Z","bytes":"410534","value":12,"pretty":"12°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:09.976Z","bytes":"410C5250","value":5268,"pretty":"5268rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:09.976Z","bytes":"410D73","value":115,"pretty":"115km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:10.230Z","bytes":"410C6B1A","value":6854.5,"pretty":"6854.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:10.231Z","bytes":"410D2A","value":42,"pretty":"42km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:10.416Z","bytes":"410AD1","value":627,"pretty":"627kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:10.417Z","bytes":"410465","value":40.4,"pretty":"40.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:10.417Z","bytes":"411178","value":47.05882352941176,"pretty":"47.05882352941176%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:10.481Z","bytes":"410C2670","value":2460,"pretty":"2460rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:10.481Z","bytes":"410DD1","value":209,"pretty":"209km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:10.735Z","bytes":"410C6A6F","value":6811.75,"pretty":"6811.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:10.736Z","bytes":"410D8E","value":142,"pretty":"142km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:10.921Z","bytes":"410ACF","value":621,"pretty":"621kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:10.922Z","bytes":"4104CE","value":82.4,"pretty":"82.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:10.923Z","bytes":"41113A","value":22.745098039215687,"pretty":"22.745098039215687%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:10.984Z","bytes":"410CC8F5","value":12861.25,"pretty":"12861.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:10.986Z","bytes":"410D7D","value":125,"pretty":"125km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:11.240Z","bytes":"410CC09F","value":12327.75,"pretty":"12327.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:11.241Z","bytes":"410DDC","value":220,"pretty":"220km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:11.424Z","bytes":"410A40","value":192,"pretty":"192kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:11.425Z","bytes":"4111C8","value":78.43137254901961,"pretty":"78.43137254901961%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:11.425Z","bytes":"410448","value":28.8,"pretty":"28.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:11.495Z","bytes":"410C8F93","value":9188.75,"pretty":"9188.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:11.496Z","bytes":"410DE0","value":224,"pretty":"224km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:11.748Z","bytes":"410C8039","value":8206.25,"pretty":"8206.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:11.748Z","bytes":"410D71","value":113,"pretty":"113km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:11.927Z","bytes":"410AC7","value":597,"pretty":"597kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:11.927Z","bytes":"41111D","value":11.372549019607844,"pretty":"11.372549019607844%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:11.928Z","bytes":"4104C3","value":78,"pretty":"78%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:12.000Z","bytes":"410CE117","value":14405.75,"pretty":"14405.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:12.001Z","bytes":"410DAB","value":171,"pretty":"171km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:12.256Z","bytes":"410C40FB","value":4158.75,"pretty":"4158.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:12.257Z","bytes":"410DA2","value":162,"pretty":"162km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:12.431Z","bytes":"410AD6","value":642,"pretty":"642kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:12.432Z","bytes":"410474","value":46.4,"pretty":"46.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:12.432Z","bytes":"41111D","value":11.372549019607844,"pretty":"11.372549019607844%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:12.509Z","bytes":"410CCAB2","value":12972.5,"pretty":"12972.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:12.510Z","bytes":"410D8C","value":140,"pretty":"140km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:12.761Z","bytes":"410CAD80","value":11104,"pretty":"11104rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:12.762Z","bytes":"410DAB","value":171,"pretty":"171km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:12.935Z","bytes":"410A91","value":435,"pretty":"435kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:12.936Z","bytes":"410493","value":58.8,"pretty":"58.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:12.936Z","bytes":"41111E","value":11.76470588235294,"pretty":"11.76470588235294%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:13.017Z","bytes":"410C8DF0","value":9084,"pretty":"9084rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:13.018Z","bytes":"410D43","value":67,"pretty":"67km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:13.268Z","bytes":"410CFFF8","value":16382,"pretty":"16382rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:13.269Z","bytes":"410D87","value":135,"pretty":"135km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:13.435Z","bytes":"410A4D","value":231,"pretty":"231kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:13.436Z","bytes":"411162","value":38.431372549019606,"pretty":"38.431372549019606%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:13.436Z","bytes":"410406","value":2.4,"pretty":"2.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:13.521Z","bytes":"410C4F22","value":5064.5,"pretty":"5064.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:13.522Z","bytes":"410D79","value":121,"pretty":"121km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:13.777Z","bytes":"410CCFAC","value":13291,"pretty":"13291rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:13.778Z","bytes":"410DC1","value":193,"pretty":"193km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:13.939Z","bytes":"410A1A","value":78,"pretty":"78kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:13.940Z","bytes":"41112A","value":16.470588235294116,"pretty":"16.470588235294116%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:13.940Z","bytes":"410444","value":27.2,"pretty":"27.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:14.030Z","bytes":"410C29D2","value":2676.5,"pretty":"2676.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:14.031Z","bytes":"410D3E","value":62,"pretty":"62km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:14.282Z","bytes":"410C6F2D","value":7115.25,"pretty":"7115.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:14.282Z","bytes":"410D80","value":128,"pretty":"128km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:14.444Z","bytes":"410A54","value":252,"pretty":"252kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:14.445Z","bytes":"4111E3","value":89.01960784313725,"pretty":"89.01960784313725%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:14.446Z","bytes":"410447","value":28.4,"pretty":"28.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:14.538Z","bytes":"410C79D9","value":7798.25,"pretty":"7798.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:14.539Z","bytes":"410DF3","value":243,"pretty":"243km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:14.793Z","bytes":"410C4EE1","value":5048.25,"pretty":"5048.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:14.794Z","bytes":"410D2A","value":42,"pretty":"42km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:14.950Z","bytes":"411147","value":27.84313725490196,"pretty":"27.84313725490196%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:14.951Z","bytes":"410ADB","value":657,"pretty":"657kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:14.951Z","bytes":"410429","value":16.4,"pretty":"16.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:14.979Z","bytes":"4105AA","value":130,"pretty":"130°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:15.048Z","bytes":"410CBA54","value":11925,"pretty":"11925rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:15.048Z","bytes":"410D00","value":0,"pretty":"0km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:15.304Z","bytes":"410C4855","value":4629.25,"pretty":"4629.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:15.304Z","bytes":"410D47","value":71,"pretty":"71km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:15.455Z","bytes":"4111F5","value":96.07843137254902,"pretty":"96.07843137254902%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:15.456Z","bytes":"410A61","value":291,"pretty":"291kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:15.456Z","bytes":"4104CF","value":82.8,"pretty":"82.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:15.559Z","bytes":"410C86C5","value":8625.25,"pretty":"8625.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:15.560Z","bytes":"410DE1","value":225,"pretty":"225km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:15.809Z","bytes":"410CCFAC","value":13291,"pretty":"13291rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:15.810Z","bytes":"410DDC","value":220,"pretty":"220km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:15.959Z","bytes":"411152","value":32.15686274509804,"pretty":"32.15686274509804%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:15.963Z","bytes":"410A73","value":345,"pretty":"345kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:15.963Z","bytes":"4104A8","value":67.2,"pretty":"67.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:16.059Z","bytes":"410C2AC1","value":2736.25,"pretty":"2736.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:16.060Z","bytes":"410D5F","value":95,"pretty":"95km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:16.313Z","bytes":"410C596","value":5697.5,"pretty":"5697.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:16.314Z","bytes":"410DE5","value":229,"pretty":"229km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:16.464Z","bytes":"411155","value":33.333333333333336,"pretty":"33.333333333333336%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:16.466Z","bytes":"410A4D","value":231,"pretty":"231kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:16.466Z","bytes":"4104D3","value":84.4,"pretty":"84.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:16.569Z","bytes":"410C5AA0","value":5800,"pretty":"5800rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:16.569Z","bytes":"410DE6","value":230,"pretty":"230km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:16.824Z","bytes":"410C30E1","value":3128.25,"pretty":"3128.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:16.826Z","bytes":"410D7A","value":122,"pretty":"122km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:16.969Z","bytes":"4111C9","value":78.82352941176471,"pretty":"78.82352941176471%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:16.970Z","bytes":"410AB2","value":534,"pretty":"534kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:16.970Z","bytes":"4104F6","value":98.4,"pretty":"98.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:17.080Z","bytes":"410C5E35","value":6029.25,"pretty":"6029.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:17.081Z","bytes":"410DE7","value":231,"pretty":"231km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:17.334Z","bytes":"410C8439","value":8462.25,"pretty":"8462.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:17.335Z","bytes":"410D7A","value":122,"pretty":"122km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:17.471Z","bytes":"4111BF","value":74.90196078431373,"pretty":"74.90196078431373%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:17.472Z","bytes":"410ABB","value":561,"pretty":"561kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:17.472Z","bytes":"41048E","value":56.8,"pretty":"56.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:17.589Z","bytes":"410CEF99","value":15334.25,"pretty":"15334.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:17.589Z","bytes":"410D96","value":150,"pretty":"150km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:17.844Z","bytes":"410CB8FC","value":11839,"pretty":"11839rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:17.845Z","bytes":"410DAF","value":175,"pretty":"175km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:17.974Z","bytes":"411166","value":40,"pretty":"40%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:17.982Z","bytes":"410AAA","value":510,"pretty":"510kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:17.982Z","bytes":"410415","value":8.4,"pretty":"8.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:18.099Z","bytes":"410CBD51","value":12116.25,"pretty":"12116.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:18.099Z","bytes":"410D6A","value":106,"pretty":"106km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:18.351Z","bytes":"410C43DD","value":4343.25,"pretty":"4343.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:18.351Z","bytes":"410DC4","value":196,"pretty":"196km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:18.479Z","bytes":"41114B","value":29.41176470588235,"pretty":"29.41176470588235%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:18.480Z","bytes":"410A28","value":120,"pretty":"120kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:18.482Z","bytes":"410424","value":14.4,"pretty":"14.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:18.601Z","bytes":"410C16B1","value":1452.25,"pretty":"1452.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:18.602Z","bytes":"410D6B","value":107,"pretty":"107km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:18.856Z","bytes":"410CA8D6","value":10805.5,"pretty":"10805.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:18.857Z","bytes":"410DE9","value":233,"pretty":"233km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:18.984Z","bytes":"4111A1","value":63.13725490196078,"pretty":"63.13725490196078%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:18.984Z","bytes":"410AAD","value":519,"pretty":"519kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:18.985Z","bytes":"4104A9","value":67.6,"pretty":"67.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:19.111Z","bytes":"410C0547","value":337.75,"pretty":"337.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:19.111Z","bytes":"410D41","value":65,"pretty":"65km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:19.364Z","bytes":"410DA8","value":168,"pretty":"168km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:19.365Z","bytes":"410C2035","value":2061.25,"pretty":"2061.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:19.489Z","bytes":"411150","value":31.372549019607842,"pretty":"31.372549019607842%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:19.490Z","bytes":"410408","value":3.2,"pretty":"3.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:19.490Z","bytes":"410A5A","value":270,"pretty":"270kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:19.616Z","bytes":"410D06","value":6,"pretty":"6km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:19.617Z","bytes":"410C933","value":9408.75,"pretty":"9408.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:19.866Z","bytes":"410DEC","value":236,"pretty":"236km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:19.867Z","bytes":"410C96E9","value":9658.25,"pretty":"9658.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:19.983Z","bytes":"410520","value":-8,"pretty":"-8°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:19.990Z","bytes":"41113E","value":24.313725490196077,"pretty":"24.313725490196077%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:19.991Z","bytes":"4104FA","value":100,"pretty":"100%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:19.991Z","bytes":"410A31","value":147,"pretty":"147kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:20.117Z","bytes":"410D33","value":51,"pretty":"51km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:20.118Z","bytes":"410CC24","value":12417,"pretty":"12417rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:20.372Z","bytes":"410D97","value":151,"pretty":"151km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:20.372Z","bytes":"410CDA40","value":13968,"pretty":"13968rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:20.493Z","bytes":"411189","value":53.72549019607843,"pretty":"53.72549019607843%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:20.494Z","bytes":"410449","value":29.2,"pretty":"29.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:20.495Z","bytes":"410AFA","value":750,"pretty":"750kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:20.626Z","bytes":"410D11","value":17,"pretty":"17km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:20.627Z","bytes":"410C1220","value":1160,"pretty":"1160rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:20.878Z","bytes":"410D33","value":51,"pretty":"51km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:20.878Z","bytes":"410CCD80","value":13152,"pretty":"13152rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:20.998Z","bytes":"411145","value":27.058823529411764,"pretty":"27.058823529411764%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:20.999Z","bytes":"410443","value":26.8,"pretty":"26.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:20.999Z","bytes":"410A5A","value":270,"pretty":"270kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:21.131Z","bytes":"410DCA","value":202,"pretty":"202km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:21.131Z","bytes":"410C3294","value":3237,"pretty":"3237rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:21.385Z","bytes":"410CC1B7","value":12397.75,"pretty":"12397.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:21.386Z","bytes":"410DB1","value":177,"pretty":"177km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:21.503Z","bytes":"411103","value":1.1764705882352942,"pretty":"1.1764705882352942%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:21.504Z","bytes":"4104AE","value":69.6,"pretty":"69.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:21.504Z","bytes":"410A00","value":0,"pretty":"0kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:21.636Z","bytes":"410C1EF8","value":1982,"pretty":"1982rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:21.636Z","bytes":"410DD3","value":211,"pretty":"211km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:21.886Z","bytes":"410DC6","value":198,"pretty":"198km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:21.887Z","bytes":"410C6AB","value":6786.75,"pretty":"6786.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:22.008Z","bytes":"4111B3","value":70.19607843137254,"pretty":"70.19607843137254%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:22.009Z","bytes":"41040B","value":4.4,"pretty":"4.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:22.009Z","bytes":"410ABC","value":564,"pretty":"564kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:22.141Z","bytes":"410D83","value":131,"pretty":"131km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:22.141Z","bytes":"410CB851","value":11796.25,"pretty":"11796.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:22.397Z","bytes":"410D45","value":69,"pretty":"69km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:22.397Z","bytes":"410C5149","value":5202.25,"pretty":"5202.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:22.510Z","bytes":"41119B","value":60.78431372549019,"pretty":"60.78431372549019%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:22.511Z","bytes":"4104FE","value":101.6,"pretty":"101.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:22.511Z","bytes":"410AA1","value":483,"pretty":"483kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:22.652Z","bytes":"410D14","value":20,"pretty":"20km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:22.653Z","bytes":"410CCDF3","value":13180.75,"pretty":"13180.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:22.905Z","bytes":"410C7A9A","value":7846.5,"pretty":"7846.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:22.906Z","bytes":"410D6E","value":110,"pretty":"110km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:23.012Z","bytes":"4111CF","value":81.17647058823529,"pretty":"81.17647058823529%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:23.013Z","bytes":"4104AF","value":70,"pretty":"70%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:23.013Z","bytes":"410A8D","value":423,"pretty":"423kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:23.159Z","bytes":"410CBAC2","value":11952.5,"pretty":"11952.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:23.159Z","bytes":"410D48","value":72,"pretty":"72km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:23.413Z","bytes":"410CFF30","value":16332,"pretty":"16332rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:23.413Z","bytes":"410D6B","value":107,"pretty":"107km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:23.517Z","bytes":"411186","value":52.549019607843135,"pretty":"52.549019607843135%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:23.518Z","bytes":"4104CB","value":81.2,"pretty":"81.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:23.519Z","bytes":"410A07","value":21,"pretty":"21kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:23.667Z","bytes":"410C0063","value":24.75,"pretty":"24.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:23.667Z","bytes":"410DED","value":237,"pretty":"237km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:23.918Z","bytes":"410C50CD","value":5171.25,"pretty":"5171.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:23.919Z","bytes":"410D8E","value":142,"pretty":"142km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:24.022Z","bytes":"4111AE","value":68.23529411764706,"pretty":"68.23529411764706%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:24.025Z","bytes":"410411","value":6.8,"pretty":"6.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:24.025Z","bytes":"410A29","value":123,"pretty":"123kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:24.174Z","bytes":"410CE666","value":14745.5,"pretty":"14745.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:24.175Z","bytes":"410D6B","value":107,"pretty":"107km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:24.429Z","bytes":"410C63E1","value":6392.25,"pretty":"6392.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:24.429Z","bytes":"410DBD","value":189,"pretty":"189km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:24.527Z","bytes":"4104EE","value":95.2,"pretty":"95.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:24.528Z","bytes":"4111F9","value":97.6470588235294,"pretty":"97.6470588235294%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:24.529Z","bytes":"410A00","value":0,"pretty":"0kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:24.678Z","bytes":"410C04F1","value":316.25,"pretty":"316.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:24.679Z","bytes":"410DCB","value":203,"pretty":"203km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:24.928Z","bytes":"410C021B","value":134.75,"pretty":"134.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:24.930Z","bytes":"410D76","value":118,"pretty":"118km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:24.986Z","bytes":"41058E","value":102,"pretty":"102°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:25.032Z","bytes":"41049D","value":62.8,"pretty":"62.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:25.033Z","bytes":"4111DB","value":85.88235294117646,"pretty":"85.88235294117646%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:25.033Z","bytes":"410A8B","value":417,"pretty":"417kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:25.184Z","bytes":"410C289D","value":2599.25,"pretty":"2599.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:25.184Z","bytes":"410D50","value":80,"pretty":"80km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:25.439Z","bytes":"410CBF28","value":12234,"pretty":"12234rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:25.440Z","bytes":"410D95","value":149,"pretty":"149km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:25.538Z","bytes":"4104BE","value":76,"pretty":"76%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:25.538Z","bytes":"411156","value":33.72549019607843,"pretty":"33.72549019607843%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:25.539Z","bytes":"410AAD","value":519,"pretty":"519kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:25.693Z","bytes":"410C2615","value":2437.25,"pretty":"2437.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:25.694Z","bytes":"410DAD","value":173,"pretty":"173km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:25.945Z","bytes":"410CA459","value":10518.25,"pretty":"10518.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:25.946Z","bytes":"410D24","value":36,"pretty":"36km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:26.043Z","bytes":"4104E4","value":91.2,"pretty":"91.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:26.043Z","bytes":"410A2C","value":132,"pretty":"132kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:26.044Z","bytes":"4111A5","value":64.70588235294117,"pretty":"64.70588235294117%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:26.199Z","bytes":"410C29E0","value":2680,"pretty":"2680rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:26.200Z","bytes":"410D92","value":146,"pretty":"146km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:26.449Z","bytes":"410DE8","value":232,"pretty":"232km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:26.449Z","bytes":"410C85FC","value":8575,"pretty":"8575rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:26.547Z","bytes":"41044D","value":30.8,"pretty":"30.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:26.549Z","bytes":"410AB5","value":543,"pretty":"543kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:26.549Z","bytes":"411191","value":56.86274509803921,"pretty":"56.86274509803921%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:26.698Z","bytes":"410DD3","value":211,"pretty":"211km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:26.700Z","bytes":"410C18E","value":1539.5,"pretty":"1539.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:26.954Z","bytes":"410D9F","value":159,"pretty":"159km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:26.955Z","bytes":"410C798A","value":7778.5,"pretty":"7778.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:27.047Z","bytes":"4104F7","value":98.8,"pretty":"98.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:27.048Z","bytes":"410AC9","value":603,"pretty":"603kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:27.049Z","bytes":"41116E","value":43.13725490196078,"pretty":"43.13725490196078%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:27.208Z","bytes":"410D42","value":66,"pretty":"66km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:27.209Z","bytes":"410CE16C","value":14427,"pretty":"14427rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:27.459Z","bytes":"410D66","value":102,"pretty":"102km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:27.460Z","bytes":"410C7123","value":7240.75,"pretty":"7240.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:27.552Z","bytes":"4104BF","value":76.4,"pretty":"76.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:27.552Z","bytes":"41118A","value":54.11764705882353,"pretty":"54.11764705882353%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:27.553Z","bytes":"410AD1","value":627,"pretty":"627kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:27.714Z","bytes":"410D9D","value":157,"pretty":"157km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:27.715Z","bytes":"410CD05","value":13313.25,"pretty":"13313.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:27.970Z","bytes":"410D99","value":153,"pretty":"153km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:27.970Z","bytes":"410CCFCA","value":13298.5,"pretty":"13298.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:28.057Z","bytes":"4104B7","value":73.2,"pretty":"73.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:28.058Z","bytes":"411140","value":25.098039215686274,"pretty":"25.098039215686274%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:28.058Z","bytes":"410A8A","value":414,"pretty":"414kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:28.225Z","bytes":"410DB4","value":180,"pretty":"180km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:28.226Z","bytes":"410C3EF8","value":4030,"pretty":"4030rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:28.481Z","bytes":"410D63","value":99,"pretty":"99km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:28.481Z","bytes":"410C21B9","value":2158.25,"pretty":"2158.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:28.562Z","bytes":"41049D","value":62.8,"pretty":"62.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:28.562Z","bytes":"411135","value":20.784313725490197,"pretty":"20.784313725490197%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:28.562Z","bytes":"410AFE","value":762,"pretty":"762kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:28.736Z","bytes":"410D2C","value":44,"pretty":"44km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:28.736Z","bytes":"410C70A7","value":7209.75,"pretty":"7209.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:28.991Z","bytes":"410D62","value":98,"pretty":"98km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:28.992Z","bytes":"410CAEB2","value":11180.5,"pretty":"11180.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:29.067Z","bytes":"4104B8","value":73.6,"pretty":"73.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:29.068Z","bytes":"411147","value":27.84313725490196,"pretty":"27.84313725490196%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:29.069Z","bytes":"410A0F","value":45,"pretty":"45kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:29.247Z","bytes":"410DE2","value":226,"pretty":"226km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:29.247Z","bytes":"410C31BB","value":3182.75,"pretty":"3182.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:29.503Z","bytes":"410DA8","value":168,"pretty":"168km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:29.504Z","bytes":"410C7ACD","value":7859.25,"pretty":"7859.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:29.569Z","bytes":"4104F7","value":98.8,"pretty":"98.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:29.570Z","bytes":"410ADB","value":657,"pretty":"657kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:29.570Z","bytes":"4111AC","value":67.45098039215686,"pretty":"67.45098039215686%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:29.758Z","bytes":"410D6D","value":109,"pretty":"109km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:29.758Z","bytes":"410CB96C","value":11867,"pretty":"11867rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:29.989Z","bytes":"410582","value":90,"pretty":"90°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:30.009Z","bytes":"410D17","value":23,"pretty":"23km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:30.010Z","bytes":"410C392D","value":3659.25,"pretty":"3659.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:30.071Z","bytes":"4104C1","value":77.2,"pretty":"77.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:30.072Z","bytes":"410A25","value":111,"pretty":"111kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:30.072Z","bytes":"411196","value":58.8235294117647,"pretty":"58.8235294117647%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:30.264Z","bytes":"410D3A","value":58,"pretty":"58km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:30.264Z","bytes":"410C762F","value":7563.75,"pretty":"7563.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:30.518Z","bytes":"410D9D","value":157,"pretty":"157km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:30.519Z","bytes":"410C1C38","value":1806,"pretty":"1806rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:30.576Z","bytes":"410432","value":20,"pretty":"20%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:30.577Z","bytes":"410A91","value":435,"pretty":"435kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:30.577Z","bytes":"4111DE","value":87.05882352941177,"pretty":"87.05882352941177%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:30.773Z","bytes":"410D93","value":147,"pretty":"147km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:30.774Z","bytes":"410CEE5E","value":15255.5,"pretty":"15255.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:31.029Z","bytes":"410DE1","value":225,"pretty":"225km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:31.029Z","bytes":"410C545B","value":5398.75,"pretty":"5398.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:31.076Z","bytes":"410457","value":34.8,"pretty":"34.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:31.076Z","bytes":"410A47","value":213,"pretty":"213kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:31.077Z","bytes":"41115A","value":35.294117647058826,"pretty":"35.294117647058826%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:31.284Z","bytes":"410DBC","value":188,"pretty":"188km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:31.285Z","bytes":"410C9024","value":9225,"pretty":"9225rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:31.534Z","bytes":"410DC6","value":198,"pretty":"198km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:31.535Z","bytes":"410CD8C0","value":13872,"pretty":"13872rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:31.581Z","bytes":"410492","value":58.4,"pretty":"58.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:31.581Z","bytes":"410A88","value":408,"pretty":"408kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:31.582Z","bytes":"4111BF","value":74.90196078431373,"pretty":"74.90196078431373%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:31.789Z","bytes":"410D0E","value":14,"pretty":"14km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:31.790Z","bytes":"410CDA83","value":13984.75,"pretty":"13984.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:32.042Z","bytes":"410DFE","value":254,"pretty":"254km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:32.042Z","bytes":"410C42AD","value":4267.25,"pretty":"4267.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:32.085Z","bytes":"4104A4","value":65.6,"pretty":"65.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:32.086Z","bytes":"41118E","value":55.68627450980392,"pretty":"55.68627450980392%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:32.087Z","bytes":"410AE1","value":675,"pretty":"675kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:32.296Z","bytes":"410D95","value":149,"pretty":"149km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:32.296Z","bytes":"410C019D","value":103.25,"pretty":"103.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:32.550Z","bytes":"410D29","value":41,"pretty":"41km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:32.551Z","bytes":"410CED6B","value":15194.75,"pretty":"15194.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:32.591Z","bytes":"41047C","value":49.6,"pretty":"49.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:32.592Z","bytes":"411140","value":25.098039215686274,"pretty":"25.098039215686274%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:32.592Z","bytes":"410AF4","value":732,"pretty":"732kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:32.805Z","bytes":"410D6A","value":106,"pretty":"106km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:32.806Z","bytes":"410CC5EB","value":12666.75,"pretty":"12666.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:33.060Z","bytes":"410D35","value":53,"pretty":"53km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:33.061Z","bytes":"410C20C","value":2051,"pretty":"2051rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:33.095Z","bytes":"410433","value":20.4,"pretty":"20.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:33.096Z","bytes":"411109","value":3.5294117647058822,"pretty":"3.5294117647058822%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:33.096Z","bytes":"410AC2","value":582,"pretty":"582kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:33.316Z","bytes":"410DDF","value":223,"pretty":"223km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:33.317Z","bytes":"410C1F3F","value":1999.75,"pretty":"1999.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:33.571Z","bytes":"410DDC","value":220,"pretty":"220km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:33.572Z","bytes":"410CDA2A","value":13962.5,"pretty":"13962.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:33.600Z","bytes":"4104D9","value":86.8,"pretty":"86.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:33.601Z","bytes":"4111C8","value":78.43137254901961,"pretty":"78.43137254901961%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:33.602Z","bytes":"410A61","value":291,"pretty":"291kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:33.826Z","bytes":"410D97","value":151,"pretty":"151km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:33.827Z","bytes":"410C1711","value":1476.25,"pretty":"1476.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:34.079Z","bytes":"410D78","value":120,"pretty":"120km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:34.079Z","bytes":"410C5F8F","value":6115.75,"pretty":"6115.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:34.105Z","bytes":"410485","value":53.2,"pretty":"53.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:34.106Z","bytes":"4111F4","value":95.68627450980392,"pretty":"95.68627450980392%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:34.107Z","bytes":"410AC7","value":597,"pretty":"597kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:34.332Z","bytes":"410DC2","value":194,"pretty":"194km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:34.332Z","bytes":"410C8DA1","value":9064.25,"pretty":"9064.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:34.584Z","bytes":"410D02","value":2,"pretty":"2km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:34.584Z","bytes":"410CF678","value":15774,"pretty":"15774rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:34.610Z","bytes":"410404","value":1.6,"pretty":"1.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:34.611Z","bytes":"41112D","value":17.647058823529413,"pretty":"17.647058823529413%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:34.612Z","bytes":"410AFD","value":759,"pretty":"759kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:34.837Z","bytes":"410D47","value":71,"pretty":"71km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:34.838Z","bytes":"410CF31C","value":15559,"pretty":"15559rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:34.994Z","bytes":"410524","value":-4,"pretty":"-4°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:35.092Z","bytes":"410D08","value":8,"pretty":"8km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:35.093Z","bytes":"410CBD8D","value":12131.25,"pretty":"12131.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:35.110Z","bytes":"411106","value":2.3529411764705883,"pretty":"2.3529411764705883%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:35.111Z","bytes":"410419","value":10,"pretty":"10%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:35.111Z","bytes":"410AB3","value":537,"pretty":"537kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:35.342Z","bytes":"410DBB","value":187,"pretty":"187km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:35.342Z","bytes":"410C62A4","value":6313,"pretty":"6313rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:35.593Z","bytes":"410D3E","value":62,"pretty":"62km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:35.593Z","bytes":"410CDACC","value":14003,"pretty":"14003rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:35.615Z","bytes":"4111F1","value":94.50980392156863,"pretty":"94.50980392156863%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:35.616Z","bytes":"410487","value":54,"pretty":"54%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:35.616Z","bytes":"410A52","value":246,"pretty":"246kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:35.843Z","bytes":"410D34","value":52,"pretty":"52km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:35.843Z","bytes":"410C587B","value":5662.75,"pretty":"5662.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:36.096Z","bytes":"410D33","value":51,"pretty":"51km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:36.097Z","bytes":"410CE78A","value":14818.5,"pretty":"14818.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:36.117Z","bytes":"411127","value":15.294117647058822,"pretty":"15.294117647058822%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:36.118Z","bytes":"4104DB","value":87.6,"pretty":"87.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:36.118Z","bytes":"410A57","value":261,"pretty":"261kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:36.352Z","bytes":"410D67","value":103,"pretty":"103km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:36.353Z","bytes":"410CE0CD","value":14387.25,"pretty":"14387.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:36.606Z","bytes":"410D0C","value":12,"pretty":"12km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:36.607Z","bytes":"410CFEB7","value":16301.75,"pretty":"16301.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:36.619Z","bytes":"411188","value":53.333333333333336,"pretty":"53.333333333333336%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:36.619Z","bytes":"4104CA","value":80.8,"pretty":"80.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:36.620Z","bytes":"410A85","value":399,"pretty":"399kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:36.859Z","bytes":"410D61","value":97,"pretty":"97km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:36.860Z","bytes":"410C9C63","value":10008.75,"pretty":"10008.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:37.112Z","bytes":"410DDA","value":218,"pretty":"218km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:37.112Z","bytes":"410CF511","value":15684.25,"pretty":"15684.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:37.120Z","bytes":"4111E6","value":90.19607843137254,"pretty":"90.19607843137254%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:37.121Z","bytes":"410476","value":47.2,"pretty":"47.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:37.121Z","bytes":"410A6B","value":321,"pretty":"321kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:37.368Z","bytes":"410DA9","value":169,"pretty":"169km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:37.369Z","bytes":"410CCE13","value":13188.75,"pretty":"13188.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:37.620Z","bytes":"410DEB","value":235,"pretty":"235km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:37.621Z","bytes":"410C88D8","value":8758,"pretty":"8758rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:37.621Z","bytes":"4111E5","value":89.80392156862744,"pretty":"89.80392156862744%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:37.621Z","bytes":"410495","value":59.6,"pretty":"59.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:37.622Z","bytes":"410AE0","value":672,"pretty":"672kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:37.875Z","bytes":"410D00","value":0,"pretty":"0km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:37.876Z","bytes":"410CD279","value":13470.25,"pretty":"13470.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:38.125Z","bytes":"41113D","value":23.92156862745098,"pretty":"23.92156862745098%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:38.126Z","bytes":"410ADE","value":666,"pretty":"666kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:38.127Z","bytes":"4104EE","value":95.2,"pretty":"95.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:38.128Z","bytes":"410DAE","value":174,"pretty":"174km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:38.128Z","bytes":"410C80A9","value":8234.25,"pretty":"8234.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:38.382Z","bytes":"410DC1","value":193,"pretty":"193km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:38.382Z","bytes":"410C19F","value":1603.75,"pretty":"1603.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:38.628Z","bytes":"411134","value":20.392156862745097,"pretty":"20.392156862745097%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:38.628Z","bytes":"410ABC","value":564,"pretty":"564kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:38.629Z","bytes":"410435","value":21.2,"pretty":"21.2%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:38.632Z","bytes":"410D5A","value":90,"pretty":"90km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:38.632Z","bytes":"410C4B34","value":4813,"pretty":"4813rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:38.883Z","bytes":"410D32","value":50,"pretty":"50km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:38.883Z","bytes":"410C9194","value":9317,"pretty":"9317rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:39.132Z","bytes":"4111C7","value":78.0392156862745,"pretty":"78.0392156862745%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:39.133Z","bytes":"4104FF","value":102,"pretty":"102%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:39.133Z","bytes":"410A5C","value":276,"pretty":"276kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:39.133Z","bytes":"410D2C","value":44,"pretty":"44km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:39.133Z","bytes":"410CF0B2","value":15404.5,"pretty":"15404.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:39.384Z","bytes":"410DEA","value":234,"pretty":"234km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:39.384Z","bytes":"410CAB50","value":10964,"pretty":"10964rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:39.638Z","bytes":"4111CB","value":79.6078431372549,"pretty":"79.6078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:39.639Z","bytes":"410475","value":46.8,"pretty":"46.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:39.639Z","bytes":"410A39","value":171,"pretty":"171kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:39.639Z","bytes":"410DAC","value":172,"pretty":"172km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:39.640Z","bytes":"410CC514","value":12613,"pretty":"12613rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:39.893Z","bytes":"410D83","value":131,"pretty":"131km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:39.894Z","bytes":"410C3AB4","value":3757,"pretty":"3757rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:39.998Z","bytes":"41055B","value":51,"pretty":"51°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:40.143Z","bytes":"4111F9","value":97.6470588235294,"pretty":"97.6470588235294%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:40.144Z","bytes":"410464","value":40,"pretty":"40%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:40.144Z","bytes":"410AD1","value":627,"pretty":"627kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:40.145Z","bytes":"410D45","value":69,"pretty":"69km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:40.145Z","bytes":"410C7550","value":7508,"pretty":"7508rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:40.398Z","bytes":"410D30","value":48,"pretty":"48km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:40.399Z","bytes":"410CCF98","value":13286,"pretty":"13286rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:40.648Z","bytes":"4111FB","value":98.43137254901961,"pretty":"98.43137254901961%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:40.649Z","bytes":"410428","value":16,"pretty":"16%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:40.649Z","bytes":"410A1B","value":81,"pretty":"81kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:40.649Z","bytes":"410D64","value":100,"pretty":"100km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:40.650Z","bytes":"410C9622","value":9608.5,"pretty":"9608.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:40.903Z","bytes":"410D68","value":104,"pretty":"104km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:40.904Z","bytes":"410C0092","value":36.5,"pretty":"36.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:41.153Z","bytes":"411125","value":14.509803921568627,"pretty":"14.509803921568627%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:41.155Z","bytes":"410470","value":44.8,"pretty":"44.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:41.155Z","bytes":"410A03","value":9,"pretty":"9kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:41.156Z","bytes":"410D59","value":89,"pretty":"89km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:41.156Z","bytes":"410C9DE9","value":10106.25,"pretty":"10106.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:41.411Z","bytes":"410D71","value":113,"pretty":"113km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:41.412Z","bytes":"410C12E0","value":1208,"pretty":"1208rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:41.657Z","bytes":"411145","value":27.058823529411764,"pretty":"27.058823529411764%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:41.658Z","bytes":"41046A","value":42.4,"pretty":"42.4%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:41.658Z","bytes":"410A33","value":153,"pretty":"153kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:41.660Z","bytes":"410D07","value":7,"pretty":"7km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:41.661Z","bytes":"410CC6E6","value":12729.5,"pretty":"12729.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:41.913Z","bytes":"410D98","value":152,"pretty":"152km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:41.914Z","bytes":"410C67BB","value":6638.75,"pretty":"6638.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:42.157Z","bytes":"411154","value":32.94117647058823,"pretty":"32.94117647058823%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:42.158Z","bytes":"41041E","value":12,"pretty":"12%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:42.158Z","bytes":"410AE1","value":675,"pretty":"675kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:42.165Z","bytes":"410D8F","value":143,"pretty":"143km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:42.165Z","bytes":"410C4FC1","value":5104.25,"pretty":"5104.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:42.418Z","bytes":"410D79","value":121,"pretty":"121km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:42.418Z","bytes":"410C1B9B","value":1766.75,"pretty":"1766.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:42.662Z","bytes":"411177","value":46.666666666666664,"pretty":"46.666666666666664%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:42.663Z","bytes":"4104DB","value":87.6,"pretty":"87.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:42.663Z","bytes":"410A2E","value":138,"pretty":"138kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:42.669Z","bytes":"410D67","value":103,"pretty":"103km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:42.670Z","bytes":"410CE123","value":14408.75,"pretty":"14408.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:42.924Z","bytes":"410D36","value":54,"pretty":"54km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:42.925Z","bytes":"410CDFB4","value":14317,"pretty":"14317rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:43.167Z","bytes":"411153","value":32.549019607843135,"pretty":"32.549019607843135%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:43.168Z","bytes":"410482","value":52,"pretty":"52%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:43.168Z","bytes":"410AFE","value":762,"pretty":"762kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:43.175Z","bytes":"410DE5","value":229,"pretty":"229km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:43.175Z","bytes":"410C72F0","value":7356,"pretty":"7356rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:43.429Z","bytes":"410D9C","value":156,"pretty":"156km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:43.430Z","bytes":"410CBAE4","value":11961,"pretty":"11961rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:43.667Z","bytes":"411131","value":19.215686274509803,"pretty":"19.215686274509803%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:43.668Z","bytes":"410434","value":20.8,"pretty":"20.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:43.668Z","bytes":"410A48","value":216,"pretty":"216kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:43.683Z","bytes":"410DD6","value":214,"pretty":"214km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:43.684Z","bytes":"410C382C","value":3595,"pretty":"3595rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:43.933Z","bytes":"410D71","value":113,"pretty":"113km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:43.934Z","bytes":"410CE05F","value":14359.75,"pretty":"14359.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:44.171Z","bytes":"41116B","value":41.96078431372549,"pretty":"41.96078431372549%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:44.172Z","bytes":"4104CA","value":80.8,"pretty":"80.8%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:44.173Z","bytes":"410AA7","value":501,"pretty":"501kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:44.184Z","bytes":"410D53","value":83,"pretty":"83km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:44.185Z","bytes":"410C76EB","value":7610.75,"pretty":"7610.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:44.438Z","bytes":"410DA4","value":164,"pretty":"164km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:44.439Z","bytes":"410CD36F","value":13531.75,"pretty":"13531.75rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:44.676Z","bytes":"411123","value":13.72549019607843,"pretty":"13.72549019607843%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:44.677Z","bytes":"410AAA","value":510,"pretty":"510kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:44.677Z","bytes":"410445","value":27.6,"pretty":"27.6%","name":"Calculated Engine Load","pid":"04"}
+{"ts":"2016-12-20T07:51:44.691Z","bytes":"410DC9","value":201,"pretty":"201km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:44.691Z","bytes":"410C5E7D","value":6047.25,"pretty":"6047.25rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:44.945Z","bytes":"410D51","value":81,"pretty":"81km/h","name":"Vehicle Speed","pid":"0D"}
+{"ts":"2016-12-20T07:51:44.945Z","bytes":"410C022A","value":138.5,"pretty":"138.5rpm","name":"Engine RPM","pid":"0C"}
+{"ts":"2016-12-20T07:51:45.001Z","bytes":"410518","value":-16,"pretty":"-16°C","name":"Engine Coolant Temperature","pid":"05"}
+{"ts":"2016-12-20T07:51:45.182Z","bytes":"4111F0","value":94.11764705882352,"pretty":"94.11764705882352%","name":"Throttle Position","pid":"11"}
+{"ts":"2016-12-20T07:51:45.183Z","bytes":"410A30","value":144,"pretty":"144kPa","name":"Fuel Pressure","pid":"0A"}
+{"ts":"2016-12-20T07:51:45.183Z","bytes":"410476","value":47.2,"pretty":"47.2%","name":"Calculated Engine Load","pid":"04"}
+]
