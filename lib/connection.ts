@@ -3,7 +3,7 @@ import * as OBD from 'obd-parser';
 import { EventEmitter } from 'events';
 import { InterfaceGlobal, InterfaceCLI } from './interface';
 
-const g = <InterfaceGlobal>global;
+const g = <InterfaceGlobal>(global as unknown);
 const program = <InterfaceCLI>g.program;
 
 let connection:Connection;

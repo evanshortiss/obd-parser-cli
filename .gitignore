@@ -8,3 +8,4 @@ typings
 *.js
 *.rdb
 outputs/
+package-lock.json

@@ -13,7 +13,7 @@ import program = require('commander');
 import { InterfaceGlobal, InterfaceCLI } from '../lib/interface';
 
 // Extend global with our program opts
-let g = <InterfaceGlobal>global;
+let g = <InterfaceGlobal>(global as unknown);
 g.program = program;
 
 import poll from '../lib/command-poll';

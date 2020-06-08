@@ -30,13 +30,13 @@
   "author": "Evan Shortiss",
   "license": "GPL-3.0",
   "dependencies": {
-    "bluebird": "~3.4.6",
+    "bluebird": "^3.4.7",
     "commander": "~2.9.0",
     "lodash": "~4.17.2",
     "mkdirp": "~0.5.1",
     "obd-parser": "~0.3.0",
     "obd-parser-development-connection": "~0.2.0",
-    "obd-parser-serial-connection": "~0.1.1",
+    "obd-parser-serial-connection": "github:evanshortiss/obd-parser-serial-connection#dev",
     "p-queue": "~0.2.0",
     "promise-queue": "~2.2.3",
     "queue-that-promise": "~1.2.1",
@@ -45,14 +45,14 @@
     "uuid": "~3.0.1"
   },
   "devDependencies": {
-    "@types/bluebird": "~3.0.36",
+    "@types/bluebird": "^3.5.32",
     "@types/commander": "~2.3.31",
     "@types/core-js": "~0.9.35",
-    "@types/lodash": "~4.14.41",
+    "@types/lodash": "^4.14.155",
     "@types/mkdirp": "~0.3.29",
-    "@types/node": "0.0.2",
+    "@types/node": "^14.0.11",
     "@types/uuid": "~2.0.29",
-    "typescript": "~2.0.10"
+    "typescript": "^3.9.5"
   },
   "main": "bin/index.js",
   "repository": {
